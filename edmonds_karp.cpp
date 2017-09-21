@@ -45,11 +45,15 @@ int bfs(int s, int t) {
             // se já chegou em t retorna a capacidade mínima do caminho de s para t
             max_flow += d;
         }
+        cout << "arestas" << endl;
         for (int i = adj[a]; i != -1; i=ant[i]) {
+            cout << i << ", ";
             if(cost[i] > 0) {
                 q.push(make_pair(to[i], min(cost[i], d)));
+                cost[i] = 0;
             }
         }
+        cout << endl;
     }
     return max_flow;
 
@@ -68,8 +72,8 @@ int main() {
             cin >> v >> w >> c;
             insert(v - 1,w - 1,c); // inserindo a aresta (v,w) com custo c no grafo
         }
-        cout << bfs(0,2) << " max flow" << endl;
-        printg(n);
+        cout << bfs(0, n - 1) << " max flow" << endl;
+        // printg(n);
 
     }
     return 0;
