@@ -48,8 +48,8 @@ pair<vector<int>, vector<pair<int, int> > > grafo(int n, int m) {
     return make_pair(V,E);
 }
 
-int main() {
-    // /*
+// int main() {
+    /*
     pair<vector<int>, vector<pair<int, int> > > G = grafo(5,10);
     vector<int> V = G.first;
     vector<pair<int, int> > E = G.second;
@@ -65,4 +65,4 @@ int main() {
 
     cout << "fim" << endl;
     // */
-}
+// }
