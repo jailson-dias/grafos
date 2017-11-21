@@ -1,0 +1,2599 @@
+INSTÂNCIA 0 – ÓTIMO: Custo 7982712
+Facilities abertas: 2 3
+Facility 2 atende clientes: 5 10
+Facility 3 atende clientes: 1 2 3 4 6 7 8 9
+
+INSTÂNCIA 2 – ÓTIMO: Custo 6636381
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 10
+Facility 3 atende clientes: 3 4 6
+Facility 4 atende clientes: 1 2 5 7 8 9
+
+INSTÂNCIA 3 – ÓTIMO: Custo 1782697
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 5 7
+Facility 3 atende clientes: 4
+Facility 4 atende clientes: 1 2 3 6 8 9 10
+
+INSTÂNCIA 4 – ÓTIMO: Custo 1031760
+Facilities abertas: 2 3
+Facility 2 atende clientes: 2 4 5 6 7 8 9 10
+Facility 3 atende clientes: 1 3
+
+INSTÂNCIA 5 – ÓTIMO: Custo 4916877
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 4
+Facility 3 atende clientes: 1 3 5 6 7 8 9 10
+Facility 4 atende clientes: 2
+
+INSTÂNCIA 6 – ÓTIMO: Custo 5880976
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 1 2 3 5 6 7 8 10
+Facility 4 atende clientes: 4
+
+INSTÂNCIA 7 – ÓTIMO: Custo 1681402
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 4
+Facility 2 atende clientes: 1 2 3 5 6 8 9 10
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 8 – ÓTIMO: Custo 2170115
+Facilities abertas: 1 2
+Facility 1 atende clientes: 4 6
+Facility 2 atende clientes: 1 2 3 5 7 8 9 10
+
+INSTÂNCIA 9 – ÓTIMO: Custo 1982540
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 2 3 5 6 7 8 9
+Facility 3 atende clientes: 4 10
+
+INSTÂNCIA 10 – ÓTIMO: Custo 7163728
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 9
+Facility 2 atende clientes: 7
+Facility 4 atende clientes: 2 3 4 5 6 8 10
+
+INSTÂNCIA 11 – ÓTIMO: Custo 1973540
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 3 4 5 7
+Facility 4 atende clientes: 2 6 8 9 10
+
+INSTÂNCIA 12 – ÓTIMO: Custo 3151915
+Facilities abertas: 3 4
+Facility 3 atende clientes: 2 3 4 5 6 7 10
+Facility 4 atende clientes: 1 8 9
+
+INSTÂNCIA 13 – ÓTIMO: Custo 1950538
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 2 4 9
+Facility 3 atende clientes: 3 5 6 7 8 10
+
+INSTÂNCIA 14 – ÓTIMO: Custo 2018366
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 2 3 5 7 8 9
+Facility 4 atende clientes: 4 6 10
+
+INSTÂNCIA 15 – ÓTIMO: Custo 979986
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 2 10
+Facility 4 atende clientes: 3 4 5 6 7 8 9
+
+INSTÂNCIA 16 – ÓTIMO: Custo 3827439
+Facilities abertas: 2 4
+Facility 2 atende clientes: 3 4 8
+Facility 4 atende clientes: 1 2 5 6 7 9 10
+
+INSTÂNCIA 17 – ÓTIMO: Custo 8751501
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 1 2 3 4 5 8
+Facility 2 atende clientes: 6
+Facility 3 atende clientes: 7 9 10
+
+INSTÂNCIA 18 – ÓTIMO: Custo 2101226
+Facilities abertas: 1 2
+Facility 1 atende clientes: 1 3 4 8 10
+Facility 2 atende clientes: 2 5 6 7 9
+
+INSTÂNCIA 19 – ÓTIMO: Custo 1230018
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 2 4 5 6 7 9 10
+Facility 4 atende clientes: 3 8
+
+INSTÂNCIA 20 – ÓTIMO: Custo 2012220
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 9
+Facility 3 atende clientes: 1 4 5
+Facility 4 atende clientes: 2 3 6 7 8 10
+
+INSTÂNCIA 21 – ÓTIMO: Custo 3179166
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 5 8 9
+Facility 4 atende clientes: 2 3 4 6 7 10
+
+INSTÂNCIA 22 – ÓTIMO: Custo 2953362
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 4
+Facility 2 atende clientes: 1 2 3 5 6 8 9 10
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 23 – ÓTIMO: Custo 6117480
+Facilities abertas: 2 4
+Facility 2 atende clientes: 3 4 5 6 7 9
+Facility 4 atende clientes: 1 2 8 10
+
+INSTÂNCIA 24 – ÓTIMO: Custo 6449416
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 5 6 7 9
+Facility 3 atende clientes: 2 3 4 8 10
+
+INSTÂNCIA 25 – ÓTIMO: Custo 2372410
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 2 3 5 7 9 10
+Facility 4 atende clientes: 4 6 8
+
+INSTÂNCIA 26 – ÓTIMO: Custo 6560034
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 1 2 3 6 8 10
+Facility 3 atende clientes: 5
+Facility 4 atende clientes: 4 7 9
+
+INSTÂNCIA 27 – ÓTIMO: Custo 2539245
+Facilities abertas: 1 4
+Facility 1 atende clientes: 5 7 8
+Facility 4 atende clientes: 1 2 3 4 6 9 10
+
+INSTÂNCIA 28 – ÓTIMO: Custo 4660073
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 3 4 5 6 7 9 10
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 2
+
+INSTÂNCIA 29 – ÓTIMO: Custo 7134017
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 4 6
+Facility 2 atende clientes: 1 2 3 5 7 8
+Facility 3 atende clientes: 9 10
+
+INSTÂNCIA 30 – ÓTIMO: Custo 6268004
+Facilities abertas: 3 4
+Facility 3 atende clientes: 2 4 5 6 8 9 10
+Facility 4 atende clientes: 1 3 7
+
+INSTÂNCIA 31 – ÓTIMO: Custo 3095526
+Facilities abertas: 1 4
+Facility 1 atende clientes: 5 7 10
+Facility 4 atende clientes: 1 2 3 4 6 8 9
+
+INSTÂNCIA 32 – ÓTIMO: Custo 7290805
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 10
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 1 3 4 5 6 7 9
+
+INSTÂNCIA 33 – ÓTIMO: Custo 4628435
+Facilities abertas: 1 4
+Facility 1 atende clientes: 2 4 6 8 10
+Facility 4 atende clientes: 1 3 5 7 9
+
+INSTÂNCIA 34 – ÓTIMO: Custo 2514798
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 3 4 5 6 7 8 10
+Facility 4 atende clientes: 2 9
+
+INSTÂNCIA 35 – ÓTIMO: Custo 1822150
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 3 4 5 6 8 9 10
+Facility 4 atende clientes: 2 7
+
+INSTÂNCIA 36 – ÓTIMO: Custo 1325568
+Facilities abertas: 1 4
+Facility 1 atende clientes: 5 7 8
+Facility 4 atende clientes: 1 2 3 4 6 9 10
+
+INSTÂNCIA 37 – ÓTIMO: Custo 6441446
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 2 3 4 8 9 10
+Facility 2 atende clientes: 5
+Facility 4 atende clientes: 1 6 7
+
+INSTÂNCIA 38 – ÓTIMO: Custo 1878545
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 2 4 5 6 8 9 10
+Facility 3 atende clientes: 3 7
+
+INSTÂNCIA 39 – ÓTIMO: Custo 3720302
+Facilities abertas: 1 3
+Facility 1 atende clientes: 2 3 4 5 7 8 9 10
+Facility 3 atende clientes: 1 6
+
+INSTÂNCIA 40 – ÓTIMO: Custo 3433356
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 2 3 4 5 8 9 10
+Facility 3 atende clientes: 6 7
+
+INSTÂNCIA 41 – ÓTIMO: Custo 7163176
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 1
+Facility 2 atende clientes: 3 4 5 6 7 8 10
+Facility 3 atende clientes: 2 9
+
+INSTÂNCIA 42 – ÓTIMO: Custo 2747368
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 4 5 7 10
+Facility 4 atende clientes: 2 3 6 8 9
+
+INSTÂNCIA 43 – ÓTIMO: Custo 2282559
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 2 4 5 7 8 9 10
+Facility 3 atende clientes: 3 6
+
+INSTÂNCIA 44 – ÓTIMO: Custo 3914047
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 3 4 5 7 9
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 1 6 10
+
+INSTÂNCIA 45 – ÓTIMO: Custo 1168536
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 2 3 4 5 6 7 8
+Facility 4 atende clientes: 9 10
+
+INSTÂNCIA 46 – ÓTIMO: Custo 4072412
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 7 10
+Facility 3 atende clientes: 2 5
+Facility 4 atende clientes: 1 3 4 6 8 9
+
+INSTÂNCIA 47 – ÓTIMO: Custo 2217454
+Facilities abertas: 3 4
+Facility 3 atende clientes: 2 6
+Facility 4 atende clientes: 1 3 4 5 7 8 9 10
+
+INSTÂNCIA 48 – ÓTIMO: Custo 4510233
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 2 3 6 7 8 10
+Facility 2 atende clientes: 5 9
+Facility 4 atende clientes: 4
+
+INSTÂNCIA 49 – ÓTIMO: Custo 558435
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 2 3 5 7 8 9 10
+Facility 4 atende clientes: 4 6
+
+INSTÂNCIA 50 – ÓTIMO: Custo 4543803
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 5
+Facility 2 atende clientes: 2 7
+Facility 3 atende clientes: 1 3 4 6 8 9 10
+
+INSTÂNCIA 51 – ÓTIMO: Custo 7981987
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 2
+Facility 3 atende clientes: 3 4 5 6 7 8 9 10
+
+INSTÂNCIA 52 – ÓTIMO: Custo 2023248
+Facilities abertas: 1 4
+Facility 1 atende clientes: 3 4
+Facility 4 atende clientes: 1 2 5 6 7 8 9 10
+
+INSTÂNCIA 53 – ÓTIMO: Custo 11304207
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 2 5 7 9 10
+Facility 2 atende clientes: 4
+Facility 3 atende clientes: 1 3 6
+Facility 4 atende clientes: 8
+
+INSTÂNCIA 54 – ÓTIMO: Custo 6917210
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 2 3 4 5 6 8 9 10
+Facility 2 atende clientes: 1
+Facility 3 atende clientes: 7
+
+INSTÂNCIA 55 – ÓTIMO: Custo 2132372
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 2 3 4 6 8 10
+Facility 3 atende clientes: 5 7 9
+
+INSTÂNCIA 56 – ÓTIMO: Custo 9022250
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 5 9
+Facility 3 atende clientes: 1 6
+Facility 4 atende clientes: 2 3 4 7 8 10
+
+INSTÂNCIA 57 – ÓTIMO: Custo 2229725
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 2 3 4 5 6 8 9 10
+Facility 3 atende clientes: 1
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 58 – ÓTIMO: Custo 4889043
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 2 3 4 5 6 9
+Facility 3 atende clientes: 8 10
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 59 – ÓTIMO: Custo 4178431
+Facilities abertas: 1 2
+Facility 1 atende clientes: 4 6 9
+Facility 2 atende clientes: 1 2 3 5 7 8 10
+
+INSTÂNCIA 60 – ÓTIMO: Custo 5955468
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 8 9
+Facility 3 atende clientes: 1 7
+Facility 4 atende clientes: 3 4 5 6 10
+
+INSTÂNCIA 61 – ÓTIMO: Custo 5566972
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 1
+Facility 2 atende clientes: 4
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 2 3 5 6 7 9 10
+
+INSTÂNCIA 62 – ÓTIMO: Custo 651986
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 2 4 5 6 7 9 10
+Facility 4 atende clientes: 3 8
+
+INSTÂNCIA 63 – ÓTIMO: Custo 642346
+Facilities abertas: 1 2
+Facility 1 atende clientes: 1 3 4 5 6 7 8
+Facility 2 atende clientes: 2 9 10
+
+INSTÂNCIA 64 – ÓTIMO: Custo 3290036
+Facilities abertas: 2 4
+Facility 2 atende clientes: 2 4 6 7 8
+Facility 4 atende clientes: 1 3 5 9 10
+
+INSTÂNCIA 65 – ÓTIMO: Custo 3791887
+Facilities abertas: 2 3
+Facility 2 atende clientes: 2 3 7 8
+Facility 3 atende clientes: 1 4 5 6 9 10
+
+INSTÂNCIA 66 – ÓTIMO: Custo 6586863
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 4 6 9
+Facility 4 atende clientes: 2 3 5 7 8 10
+
+INSTÂNCIA 67 – ÓTIMO: Custo 1364188
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 3 4 5 6 8 9 10
+Facility 3 atende clientes: 2 7
+
+INSTÂNCIA 68 – ÓTIMO: Custo 7463925
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 2 3 4 5 7 9 10
+Facility 3 atende clientes: 6 8
+
+INSTÂNCIA 69 – ÓTIMO: Custo 9531921
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 3 6 10
+Facility 3 atende clientes: 4 5 7 8
+Facility 4 atende clientes: 1 9
+
+INSTÂNCIA 70 – ÓTIMO: Custo 3930305
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 2 3 5 7 8 9 10
+Facility 3 atende clientes: 4 6
+
+INSTÂNCIA 71 – ÓTIMO: Custo 4704536
+Facilities abertas: 1 2
+Facility 1 atende clientes: 1 2 4 10
+Facility 2 atende clientes: 3 5 6 7 8 9
+
+INSTÂNCIA 72 – ÓTIMO: Custo 6689847
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 2 5 7 9 10
+Facility 2 atende clientes: 1 6 8
+Facility 3 atende clientes: 3 4
+
+INSTÂNCIA 73 – ÓTIMO: Custo 3424037
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 3 5 7 8 9
+Facility 3 atende clientes: 4 6 10
+Facility 4 atende clientes: 1
+
+INSTÂNCIA 74 – ÓTIMO: Custo 3609792
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 3 5 7 10
+Facility 3 atende clientes: 2 4 6 8 9
+
+INSTÂNCIA 75 – ÓTIMO: Custo 2961724
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 3 4 5 6 8 9
+Facility 4 atende clientes: 2 7 10
+
+INSTÂNCIA 76 – ÓTIMO: Custo 5871067
+Facilities abertas: 2 3
+Facility 2 atende clientes: 2 4 5 8 10
+Facility 3 atende clientes: 1 3 6 7 9
+
+INSTÂNCIA 77 – ÓTIMO: Custo 10236960
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 2 3 4 5 8 9
+Facility 2 atende clientes: 6 10
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 78 – ÓTIMO: Custo 622782
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 2 3 5 6 7 8 10
+Facility 4 atende clientes: 4 9
+
+INSTÂNCIA 79 – ÓTIMO: Custo 1213602
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 3 5 6 7 8 9 10
+Facility 4 atende clientes: 2 4
+
+INSTÂNCIA 80 – ÓTIMO: Custo 2872929
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 3
+Facility 3 atende clientes: 2
+Facility 4 atende clientes: 1 4 5 6 7 8 9 10
+
+INSTÂNCIA 81 – ÓTIMO: Custo 1875005
+Facilities abertas: 1 2
+Facility 1 atende clientes: 1 7
+Facility 2 atende clientes: 2 3 4 5 6 8 9 10
+
+INSTÂNCIA 82 – ÓTIMO: Custo 2945069
+Facilities abertas: 1 3
+Facility 1 atende clientes: 3 4 5 6 7 8 9 10
+Facility 3 atende clientes: 1 2
+
+INSTÂNCIA 83 – ÓTIMO: Custo 444493
+Facilities abertas: 2 4
+Facility 2 atende clientes: 8 9 10
+Facility 4 atende clientes: 1 2 3 4 5 6 7
+
+INSTÂNCIA 84 – ÓTIMO: Custo 1188462
+Facilities abertas: 2 4
+Facility 2 atende clientes: 3 4 6 8 9
+Facility 4 atende clientes: 1 2 5 7 10
+
+INSTÂNCIA 85 – ÓTIMO: Custo 6550140
+Facilities abertas: 3 4
+Facility 3 atende clientes: 3 5 9
+Facility 4 atende clientes: 1 2 4 6 7 8 10
+
+INSTÂNCIA 86 – ÓTIMO: Custo 2505377
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 2 3 6 8 9
+Facility 4 atende clientes: 4 5 7 10
+
+INSTÂNCIA 87 – ÓTIMO: Custo 2645189
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 2 4 7 9 10
+Facility 4 atende clientes: 3 5 6 8
+
+INSTÂNCIA 88 – ÓTIMO: Custo 8776526
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 6 8 9
+Facility 2 atende clientes: 2 7 10
+Facility 3 atende clientes: 1 3 4 5
+
+INSTÂNCIA 89 – ÓTIMO: Custo 2176229
+Facilities abertas: 3 4
+Facility 3 atende clientes: 1 2 3 5 6 7 9 10
+Facility 4 atende clientes: 4 8
+
+INSTÂNCIA 90 – ÓTIMO: Custo 2217423
+Facilities abertas: 1 2
+Facility 1 atende clientes: 1 3 4 5 6 8 9 10
+Facility 2 atende clientes: 2 7
+
+INSTÂNCIA 91 – ÓTIMO: Custo 3224604
+Facilities abertas: 1 4
+Facility 1 atende clientes: 1 3
+Facility 4 atende clientes: 2 4 5 6 7 8 9 10
+
+INSTÂNCIA 92 – ÓTIMO: Custo 3624310
+Facilities abertas: 2 4
+Facility 2 atende clientes: 3 4 5 6 8 9 10
+Facility 4 atende clientes: 1 2 7
+
+INSTÂNCIA 93 – ÓTIMO: Custo 3683372
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 5 9 10
+Facility 3 atende clientes: 2 3 4 6 7 8
+
+INSTÂNCIA 94 – ÓTIMO: Custo 1546290
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 4
+Facility 4 atende clientes: 2 3 5 6 7 8 9 10
+
+INSTÂNCIA 95 – ÓTIMO: Custo 4172161
+Facilities abertas: 2 4
+Facility 2 atende clientes: 1 2 3 5 10
+Facility 4 atende clientes: 4 6 7 8 9
+
+INSTÂNCIA 96 – ÓTIMO: Custo 6074490
+Facilities abertas: 2 3
+Facility 2 atende clientes: 2 6 7 8
+Facility 3 atende clientes: 1 3 4 5 9 10
+
+INSTÂNCIA 97 – ÓTIMO: Custo 2847029
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 3 10
+Facility 2 atende clientes: 2 4 5 6 7 8 9
+Facility 4 atende clientes: 1
+
+INSTÂNCIA 98 – ÓTIMO: Custo 2738594
+Facilities abertas: 1 2
+Facility 1 atende clientes: 2 5
+Facility 2 atende clientes: 1 3 4 6 7 8 9 10
+
+INSTÂNCIA 99 – ÓTIMO: Custo 2750808
+Facilities abertas: 1 2
+Facility 1 atende clientes: 2 3 4 6 7 8 9 10
+Facility 2 atende clientes: 1 5
+
+INSTÂNCIA 100 – ÓTIMO: Custo 746936
+Facilities abertas: 1 3
+Facility 1 atende clientes: 1 2 7
+Facility 3 atende clientes: 3 4 5 6 8 9 10
+
+INSTÂNCIA 101 – ÓTIMO: Custo 2729673
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 1 6
+Facility 2 atende clientes: 5 7 12
+Facility 5 atende clientes: 2 3 4 8 9 10 11
+
+INSTÂNCIA 102 – ÓTIMO: Custo 4343530
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 3 6 7 9 12
+Facility 3 atende clientes: 2 5 8
+Facility 4 atende clientes: 4 10 11
+
+INSTÂNCIA 103 – ÓTIMO: Custo 4334246
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 3 5 6 7 8 10 12
+Facility 3 atende clientes: 4 9
+Facility 4 atende clientes: 2 11
+
+INSTÂNCIA 104 – ÓTIMO: Custo 4950253
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 2 4 5 8 9 10 11
+Facility 3 atende clientes: 3
+Facility 5 atende clientes: 1 6 7 12
+
+INSTÂNCIA 105 – ÓTIMO: Custo 6057872
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 1 2 3 4 6 7 8 11 12
+Facility 2 atende clientes: 10
+Facility 3 atende clientes: 9
+Facility 5 atende clientes: 5
+
+INSTÂNCIA 106 – ÓTIMO: Custo 1221030
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 3 5 6 7 8 11 12
+Facility 2 atende clientes: 2 4 10
+Facility 4 atende clientes: 9
+
+INSTÂNCIA 107 – ÓTIMO: Custo 2663880
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 1 4 11 12
+Facility 2 atende clientes: 2 5 6 8 9 10
+Facility 4 atende clientes: 3
+Facility 5 atende clientes: 7
+
+INSTÂNCIA 108 – ÓTIMO: Custo 4983626
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 2 5 7 8 10 11 12
+Facility 4 atende clientes: 1 3 4 6
+
+INSTÂNCIA 109 – ÓTIMO: Custo 4318550
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 3 5
+Facility 2 atende clientes: 2 4 6 8 9 10 11 12
+Facility 4 atende clientes: 1 7
+
+INSTÂNCIA 110 – ÓTIMO: Custo 3423217
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 1 4 5 11
+Facility 3 atende clientes: 3 9
+Facility 5 atende clientes: 2 6 7 8 10 12
+
+INSTÂNCIA 111 – ÓTIMO: Custo 7854215
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 2 3 4 6 7 8 9 12
+Facility 3 atende clientes: 10
+Facility 4 atende clientes: 1
+Facility 5 atende clientes: 5 11
+
+INSTÂNCIA 112 – ÓTIMO: Custo 5774819
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 1 2 3 6 7 10 12
+Facility 2 atende clientes: 8 9
+Facility 3 atende clientes: 4
+Facility 4 atende clientes: 5 11
+
+INSTÂNCIA 113 – ÓTIMO: Custo 3038115
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 5 6 8
+Facility 3 atende clientes: 1 2 3 4 9 11 12
+Facility 4 atende clientes: 7 10
+
+INSTÂNCIA 114 – ÓTIMO: Custo 5329663
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 2 4 6 8 9 12
+Facility 2 atende clientes: 1 5 10
+Facility 4 atende clientes: 3 7 11
+
+INSTÂNCIA 115 – ÓTIMO: Custo 4408476
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 1
+Facility 2 atende clientes: 2 3 4 8 10 11 12
+Facility 3 atende clientes: 5 6 7 9
+
+INSTÂNCIA 116 – ÓTIMO: Custo 4284130
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 3 6 8
+Facility 3 atende clientes: 2 7
+Facility 5 atende clientes: 1 4 5 9 10 11 12
+
+INSTÂNCIA 117 – ÓTIMO: Custo 6175625
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 6
+Facility 3 atende clientes: 5 8 10
+Facility 5 atende clientes: 1 2 3 4 7 9 11 12
+
+INSTÂNCIA 118 – ÓTIMO: Custo 3608650
+Facilities abertas: 1 5
+Facility 1 atende clientes: 2 3 4 5 6 7 8 9 11
+Facility 5 atende clientes: 1 10 12
+
+INSTÂNCIA 119 – ÓTIMO: Custo 5026296
+Facilities abertas: 3 4 5
+Facility 3 atende clientes: 1 6
+Facility 4 atende clientes: 2 3 5 7 9 12
+Facility 5 atende clientes: 4 8 10 11
+
+INSTÂNCIA 120 – ÓTIMO: Custo 1849803
+Facilities abertas: 1 4 5
+Facility 1 atende clientes: 7 9 11
+Facility 4 atende clientes: 2 3 4 5 6 8 12
+Facility 5 atende clientes: 1 10
+
+INSTÂNCIA 121 – ÓTIMO: Custo 2450652
+Facilities abertas: 4 5
+Facility 4 atende clientes: 1 3 4 7 8 10 11
+Facility 5 atende clientes: 2 5 6 9 12
+
+INSTÂNCIA 122 – ÓTIMO: Custo 6742218
+Facilities abertas: 3 4 5
+Facility 3 atende clientes: 1 2 3 4 5 10 11 12
+Facility 4 atende clientes: 7 9
+Facility 5 atende clientes: 6 8
+
+INSTÂNCIA 123 – ÓTIMO: Custo 4040778
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 2 4 11
+Facility 4 atende clientes: 5
+Facility 5 atende clientes: 1 3 6 7 8 9 10 12
+
+INSTÂNCIA 124 – ÓTIMO: Custo 5299034
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 1 4 11
+Facility 3 atende clientes: 3
+Facility 4 atende clientes: 12
+Facility 5 atende clientes: 2 5 6 7 8 9 10
+
+INSTÂNCIA 125 – ÓTIMO: Custo 3485874
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 1 4 12
+Facility 3 atende clientes: 7
+Facility 4 atende clientes: 5 6 11
+Facility 5 atende clientes: 2 3 8 9 10
+
+INSTÂNCIA 126 – ÓTIMO: Custo 3136506
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 2 3 5 6 7 8 9 11
+Facility 3 atende clientes: 1
+Facility 4 atende clientes: 4 10 12
+
+INSTÂNCIA 127 – ÓTIMO: Custo 5766503
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 3 9 10
+Facility 2 atende clientes: 2 12
+Facility 4 atende clientes: 1 4 5 6 7 8 11
+
+INSTÂNCIA 128 – ÓTIMO: Custo 4806635
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 2 3 4 6 7 9 11 12
+Facility 2 atende clientes: 1 10
+Facility 4 atende clientes: 5 8
+
+INSTÂNCIA 129 – ÓTIMO: Custo 3969522
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 1 4 5 7 12
+Facility 2 atende clientes: 3 6 8 10
+Facility 3 atende clientes: 2 9 11
+
+INSTÂNCIA 130 – ÓTIMO: Custo 3475809
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 1 7
+Facility 2 atende clientes: 5
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 9
+Facility 5 atende clientes: 2 3 4 6 10 11 12
+
+INSTÂNCIA 131 – ÓTIMO: Custo 3628550
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 3 7 8 9 11
+Facility 2 atende clientes: 2 4 5 10
+Facility 3 atende clientes: 12
+Facility 5 atende clientes: 1 6
+
+INSTÂNCIA 132 – ÓTIMO: Custo 3007420
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 1 2 3 5 7 11 12
+Facility 2 atende clientes: 4 8
+Facility 3 atende clientes: 9 10
+Facility 5 atende clientes: 6
+
+INSTÂNCIA 133 – ÓTIMO: Custo 4332852
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 2 3 4 5 7 8 10 11
+Facility 2 atende clientes: 1 6
+Facility 3 atende clientes: 9
+Facility 4 atende clientes: 12
+
+INSTÂNCIA 134 – ÓTIMO: Custo 3992225
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 10
+Facility 2 atende clientes: 1 3 4 5 8 9 11 12
+Facility 4 atende clientes: 6 7
+Facility 5 atende clientes: 2
+
+INSTÂNCIA 135 – ÓTIMO: Custo 6393099
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 2 6 7 8 9 10 11
+Facility 2 atende clientes: 3 12
+Facility 4 atende clientes: 4 5
+
+INSTÂNCIA 136 – ÓTIMO: Custo 8462496
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 4
+Facility 2 atende clientes: 1 2 5 7 9 11 12
+Facility 3 atende clientes: 3 6
+Facility 4 atende clientes: 8 10
+
+INSTÂNCIA 137 – ÓTIMO: Custo 6368824
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 9
+Facility 3 atende clientes: 1 3 5 6 7 8 10 11
+Facility 4 atende clientes: 2 4 12
+
+INSTÂNCIA 138 – ÓTIMO: Custo 4262170
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 3 4 12
+Facility 3 atende clientes: 1
+Facility 4 atende clientes: 10
+Facility 5 atende clientes: 2 5 6 7 8 9 11
+
+INSTÂNCIA 139 – ÓTIMO: Custo 2373870
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 1 2 3 5 6 10
+Facility 3 atende clientes: 7 8 9 11 12
+Facility 5 atende clientes: 4
+
+INSTÂNCIA 140 – ÓTIMO: Custo 2946232
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 12
+Facility 2 atende clientes: 3 5 8 11
+Facility 5 atende clientes: 1 2 4 6 7 9 10
+
+INSTÂNCIA 141 – ÓTIMO: Custo 735263
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 4 9
+Facility 2 atende clientes: 2 8
+Facility 3 atende clientes: 1 3 5 6 7 10 11 12
+
+INSTÂNCIA 142 – ÓTIMO: Custo 4720581
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 7
+Facility 2 atende clientes: 4 10 12
+Facility 4 atende clientes: 1 2 3 5 6 8 9 11
+
+INSTÂNCIA 143 – ÓTIMO: Custo 4022936
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 1 3 5
+Facility 2 atende clientes: 11
+Facility 4 atende clientes: 4 7 9 10
+Facility 5 atende clientes: 2 6 8 12
+
+INSTÂNCIA 144 – ÓTIMO: Custo 3649524
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 5 7
+Facility 2 atende clientes: 10
+Facility 3 atende clientes: 1 3 4 6 8 9 11 12
+Facility 4 atende clientes: 2
+
+INSTÂNCIA 145 – ÓTIMO: Custo 5701041
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 9 11 12
+Facility 3 atende clientes: 3 6
+Facility 4 atende clientes: 1 2 5 7 8 10
+Facility 5 atende clientes: 4
+
+INSTÂNCIA 146 – ÓTIMO: Custo 2425170
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 4 5 9
+Facility 3 atende clientes: 1 2 6 7 8 10 11
+Facility 5 atende clientes: 3 12
+
+INSTÂNCIA 147 – ÓTIMO: Custo 3929465
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 2 3 7 8 10 11 12
+Facility 3 atende clientes: 4 5 9
+Facility 4 atende clientes: 6
+
+INSTÂNCIA 148 – ÓTIMO: Custo 3241989
+Facilities abertas: 4 5
+Facility 4 atende clientes: 1 5 7 10
+Facility 5 atende clientes: 2 3 4 6 8 9 11 12
+
+INSTÂNCIA 149 – ÓTIMO: Custo 3353648
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 4 5 7 8 9 10 11 12
+Facility 3 atende clientes: 6
+Facility 4 atende clientes: 1 2 3
+
+INSTÂNCIA 150 – ÓTIMO: Custo 2270918
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 5 10 12
+Facility 3 atende clientes: 1 6
+Facility 5 atende clientes: 2 3 4 7 8 9 11
+
+INSTÂNCIA 151 – ÓTIMO: Custo 8541347
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 4 8
+Facility 3 atende clientes: 2 12
+Facility 4 atende clientes: 1 3 5 7 9 10 11
+Facility 5 atende clientes: 6
+
+INSTÂNCIA 152 – ÓTIMO: Custo 2563550
+Facilities abertas: 1 4
+Facility 1 atende clientes: 3 5 7 9 10
+Facility 4 atende clientes: 1 2 4 6 8 11 12
+
+INSTÂNCIA 153 – ÓTIMO: Custo 3874434
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 6 7 12
+Facility 3 atende clientes: 4 9 11
+Facility 5 atende clientes: 1 2 3 5 8 10
+
+INSTÂNCIA 154 – ÓTIMO: Custo 6481022
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 1 3 5 6 7 8 11
+Facility 2 atende clientes: 4 9 12
+Facility 5 atende clientes: 2 10
+
+INSTÂNCIA 155 – ÓTIMO: Custo 1709480
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 3 4 6 10
+Facility 3 atende clientes: 1 2 5 8 9 11 12
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 156 – ÓTIMO: Custo 9535922
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 1 5
+Facility 3 atende clientes: 6 8 11 12
+Facility 5 atende clientes: 2 3 4 7 9 10
+
+INSTÂNCIA 157 – ÓTIMO: Custo 8132462
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 5 12
+Facility 2 atende clientes: 3 11
+Facility 3 atende clientes: 10
+Facility 4 atende clientes: 1 2 4 6 7 8 9
+
+INSTÂNCIA 158 – ÓTIMO: Custo 3224558
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 7
+Facility 2 atende clientes: 1 6 11
+Facility 4 atende clientes: 2 3 4 5 8 9 10 12
+
+INSTÂNCIA 159 – ÓTIMO: Custo 7613218
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 2 11
+Facility 2 atende clientes: 6 8
+Facility 4 atende clientes: 3 4 5 7 9 10 12
+
+INSTÂNCIA 160 – ÓTIMO: Custo 11545841
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 2 9
+Facility 2 atende clientes: 7
+Facility 3 atende clientes: 4 11
+Facility 4 atende clientes: 1 3 6 8 10 12
+Facility 5 atende clientes: 5
+
+INSTÂNCIA 161 – ÓTIMO: Custo 5309473
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 7
+Facility 2 atende clientes: 3 4 6 8 10 12
+Facility 3 atende clientes: 1 2 9 11
+Facility 4 atende clientes: 5
+
+INSTÂNCIA 162 – ÓTIMO: Custo 3133028
+Facilities abertas: 2 4
+Facility 2 atende clientes: 2 3 4 5 7 10
+Facility 4 atende clientes: 1 6 8 9 11 12
+
+INSTÂNCIA 163 – ÓTIMO: Custo 1243924
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 1 2 5 6 8 9 10 11 12
+Facility 3 atende clientes: 7
+Facility 4 atende clientes: 3 4
+
+INSTÂNCIA 164 – ÓTIMO: Custo 2630242
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 3 7
+Facility 4 atende clientes: 1 2 4 5 6 8 9 11
+Facility 5 atende clientes: 10 12
+
+INSTÂNCIA 165 – ÓTIMO: Custo 10023658
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 4 5 6 7 8 11
+Facility 2 atende clientes: 1 2 9 10 12
+Facility 4 atende clientes: 3
+
+INSTÂNCIA 166 – ÓTIMO: Custo 4009262
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 2 3 6 7 8 11 12
+Facility 3 atende clientes: 10
+Facility 5 atende clientes: 1 4 5 9
+
+INSTÂNCIA 167 – ÓTIMO: Custo 4157172
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 1 2 4 5 6 7 9 11
+Facility 3 atende clientes: 8 10
+Facility 4 atende clientes: 3 12
+
+INSTÂNCIA 168 – ÓTIMO: Custo 9168083
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 2 3
+Facility 4 atende clientes: 1 4 6 8 10
+Facility 5 atende clientes: 5 7 9 11 12
+
+INSTÂNCIA 169 – ÓTIMO: Custo 4773108
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 7
+Facility 3 atende clientes: 1 3 4 5 6 8 12
+Facility 4 atende clientes: 2 10
+Facility 5 atende clientes: 9 11
+
+INSTÂNCIA 170 – ÓTIMO: Custo 6230810
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 5 7 8
+Facility 3 atende clientes: 2 3 4 6 9 10 11 12
+
+INSTÂNCIA 171 – ÓTIMO: Custo 793814
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 2 4 9 10 11 12
+Facility 3 atende clientes: 3 5 6 7 8
+Facility 4 atende clientes: 1
+
+INSTÂNCIA 172 – ÓTIMO: Custo 6081822
+Facilities abertas: 1 4 5
+Facility 1 atende clientes: 1 2 3 4 5 7 10 12
+Facility 4 atende clientes: 6 8 11
+Facility 5 atende clientes: 9
+
+INSTÂNCIA 173 – ÓTIMO: Custo 6162874
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 5 7 8 9 10
+Facility 3 atende clientes: 1 3 4 12
+Facility 4 atende clientes: 6 11
+
+INSTÂNCIA 174 – ÓTIMO: Custo 5165996
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 2 3 5 7 9 10 11 12
+Facility 2 atende clientes: 4 6 8
+Facility 5 atende clientes: 1
+
+INSTÂNCIA 175 – ÓTIMO: Custo 8294818
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 6 9
+Facility 2 atende clientes: 1 10
+Facility 3 atende clientes: 2 3 4 5 8 11 12
+Facility 4 atende clientes: 7
+
+INSTÂNCIA 176 – ÓTIMO: Custo 5357518
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 3 10 11
+Facility 2 atende clientes: 7 8
+Facility 5 atende clientes: 1 2 4 5 6 9 12
+
+INSTÂNCIA 177 – ÓTIMO: Custo 2214746
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 7
+Facility 3 atende clientes: 1 2 3 5 6 8 9 10
+Facility 5 atende clientes: 4 11 12
+
+INSTÂNCIA 178 – ÓTIMO: Custo 12400053
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 4 12
+Facility 4 atende clientes: 3 5 6 7 8 10 11
+Facility 5 atende clientes: 1 2
+
+INSTÂNCIA 179 – ÓTIMO: Custo 4144202
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 7 9 12
+Facility 2 atende clientes: 1 2 6 8 10 11
+Facility 4 atende clientes: 3
+Facility 5 atende clientes: 4 5
+
+INSTÂNCIA 180 – ÓTIMO: Custo 2848493
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 1 2 4 5 6 7 11
+Facility 3 atende clientes: 8
+Facility 5 atende clientes: 3 9 10 12
+
+INSTÂNCIA 181 – ÓTIMO: Custo 3662991
+Facilities abertas: 1 4 5
+Facility 1 atende clientes: 6 10
+Facility 4 atende clientes: 5 8 12
+Facility 5 atende clientes: 1 2 3 4 7 9 11
+
+INSTÂNCIA 182 – ÓTIMO: Custo 930971
+Facilities abertas: 3 4 5
+Facility 3 atende clientes: 2 10
+Facility 4 atende clientes: 1 3 4 6 7 8 12
+Facility 5 atende clientes: 5 9 11
+
+INSTÂNCIA 183 – ÓTIMO: Custo 9914723
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 10
+Facility 3 atende clientes: 3 7 8 11 12
+Facility 4 atende clientes: 2
+Facility 5 atende clientes: 1 4 5 6 9
+
+INSTÂNCIA 184 – ÓTIMO: Custo 1350524
+Facilities abertas: 1 2 3
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 3 4 6
+Facility 3 atende clientes: 1 2 5 7 8 10 11 12
+
+INSTÂNCIA 185 – ÓTIMO: Custo 4293200
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 2 3 5 6 7 8 10 11
+Facility 4 atende clientes: 1 4
+Facility 5 atende clientes: 12
+
+INSTÂNCIA 186 – ÓTIMO: Custo 1615405
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 1 5
+Facility 3 atende clientes: 9
+Facility 4 atende clientes: 3 4 6 7 8 10 11 12
+Facility 5 atende clientes: 2
+
+INSTÂNCIA 187 – ÓTIMO: Custo 2917227
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 2
+Facility 3 atende clientes: 7 8
+Facility 4 atende clientes: 10 11
+Facility 5 atende clientes: 1 3 4 5 6 9 12
+
+INSTÂNCIA 188 – ÓTIMO: Custo 4382279
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 2 11
+Facility 3 atende clientes: 6
+Facility 4 atende clientes: 1 4 7
+Facility 5 atende clientes: 3 5 8 9 10 12
+
+INSTÂNCIA 189 – ÓTIMO: Custo 2854306
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 1 4 5 6 7 9 11
+Facility 3 atende clientes: 12
+Facility 4 atende clientes: 2 3 8 10
+
+INSTÂNCIA 190 – ÓTIMO: Custo 3281595
+Facilities abertas: 2 3
+Facility 2 atende clientes: 1 3 6 9
+Facility 3 atende clientes: 2 4 5 7 8 10 11 12
+
+INSTÂNCIA 191 – ÓTIMO: Custo 4550486
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 1 4 5 6 8 10 12
+Facility 2 atende clientes: 2 11
+Facility 4 atende clientes: 3 9
+Facility 5 atende clientes: 7
+
+INSTÂNCIA 192 – ÓTIMO: Custo 7027496
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 4 8 9 10 12
+Facility 2 atende clientes: 2 7 11
+Facility 4 atende clientes: 3 5 6
+
+INSTÂNCIA 193 – ÓTIMO: Custo 5145159
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 1 2 4 7 9 10 11 12
+Facility 3 atende clientes: 3
+Facility 5 atende clientes: 5 6 8
+
+INSTÂNCIA 194 – ÓTIMO: Custo 4053285
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 10 12
+Facility 2 atende clientes: 1 2 3 4 5 7 9 11
+Facility 4 atende clientes: 6 8
+
+INSTÂNCIA 195 – ÓTIMO: Custo 4825701
+Facilities abertas: 3 5
+Facility 3 atende clientes: 2 7 8 10
+Facility 5 atende clientes: 1 3 4 5 6 9 11 12
+
+INSTÂNCIA 196 – ÓTIMO: Custo 11581912
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 4 5 6 9 12
+Facility 2 atende clientes: 3 8 11
+Facility 3 atende clientes: 1
+Facility 4 atende clientes: 2 7 10
+
+INSTÂNCIA 197 – ÓTIMO: Custo 1072038
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 3 7 8 11
+Facility 2 atende clientes: 1 2 4 6 9 10 12
+Facility 5 atende clientes: 5
+
+INSTÂNCIA 198 – ÓTIMO: Custo 3100541
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 3 5 6
+Facility 3 atende clientes: 2 9
+Facility 4 atende clientes: 1 4 7 8 10 11 12
+
+INSTÂNCIA 199 – ÓTIMO: Custo 3322788
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 2
+Facility 4 atende clientes: 1 4 8 9 10
+Facility 5 atende clientes: 3 5 6 7 11 12
+
+INSTÂNCIA 200 – ÓTIMO: Custo 1406010
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 2 4 10 11 12
+Facility 3 atende clientes: 6
+Facility 4 atende clientes: 1 3 5 7 8 9
+
+INSTÂNCIA 201 – ÓTIMO: Custo 1969868
+Facilities abertas: 1 2 6
+Facility 1 atende clientes: 1 3 8 13
+Facility 2 atende clientes: 2 4 7 9 11 12 14
+Facility 6 atende clientes: 5 6 10
+
+INSTÂNCIA 202 – ÓTIMO: Custo 2598705
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 5 7
+Facility 3 atende clientes: 2 3 8 10 11 12 14
+Facility 5 atende clientes: 1 4 6 13
+Facility 6 atende clientes: 9
+
+INSTÂNCIA 203 – ÓTIMO: Custo 5436014
+Facilities abertas: 1 3 5 6
+Facility 1 atende clientes: 4 5 7 8 9 13
+Facility 3 atende clientes: 1 2 3 10 14
+Facility 5 atende clientes: 6 12
+Facility 6 atende clientes: 11
+
+INSTÂNCIA 204 – ÓTIMO: Custo 5922840
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 3 5 10
+Facility 2 atende clientes: 8 9 11 13
+Facility 5 atende clientes: 1 2 4 6 7 12 14
+
+INSTÂNCIA 205 – ÓTIMO: Custo 6161760
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 4 11
+Facility 4 atende clientes: 1 3 5 10
+Facility 5 atende clientes: 7
+Facility 6 atende clientes: 2 6 8 9 12 13 14
+
+INSTÂNCIA 206 – ÓTIMO: Custo 2382845
+Facilities abertas: 1 3 5 6
+Facility 1 atende clientes: 1
+Facility 3 atende clientes: 14
+Facility 5 atende clientes: 3 5 6 9 11 13
+Facility 6 atende clientes: 2 4 7 8 10 12
+
+INSTÂNCIA 207 – ÓTIMO: Custo 3742304
+Facilities abertas: 1 3 6
+Facility 1 atende clientes: 3 5 7 9 10 11 14
+Facility 3 atende clientes: 4
+Facility 6 atende clientes: 1 2 6 8 12 13
+
+INSTÂNCIA 208 – ÓTIMO: Custo 6656092
+Facilities abertas: 2 4 5 6
+Facility 2 atende clientes: 1 4 9
+Facility 4 atende clientes: 11
+Facility 5 atende clientes: 2 3 5 6 10 12 14
+Facility 6 atende clientes: 7 8 13
+
+INSTÂNCIA 209 – ÓTIMO: Custo 6342603
+Facilities abertas: 2 3 4 5 6
+Facility 2 atende clientes: 14
+Facility 3 atende clientes: 2 4 9 10 12 13
+Facility 4 atende clientes: 5 6
+Facility 5 atende clientes: 1 11
+Facility 6 atende clientes: 3 7 8
+
+INSTÂNCIA 210 – ÓTIMO: Custo 6546316
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 3 6 7 11 14
+Facility 3 atende clientes: 12
+Facility 4 atende clientes: 1 2 4 5 8 9 10 13
+
+INSTÂNCIA 211 – ÓTIMO: Custo 8269331
+Facilities abertas: 1 3 4 5 6
+Facility 1 atende clientes: 3 9 11 13
+Facility 3 atende clientes: 14
+Facility 4 atende clientes: 1 2 6
+Facility 5 atende clientes: 5 7 8 10 12
+Facility 6 atende clientes: 4
+
+INSTÂNCIA 212 – ÓTIMO: Custo 7527654
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 4 13
+Facility 2 atende clientes: 6
+Facility 3 atende clientes: 1 2 3 7 8 9 10 14
+Facility 6 atende clientes: 5 11 12
+
+INSTÂNCIA 213 – ÓTIMO: Custo 2854355
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 8
+Facility 2 atende clientes: 2 3 5 7 13 14
+Facility 3 atende clientes: 4 11
+Facility 4 atende clientes: 1 10 12
+Facility 5 atende clientes: 6 9
+
+INSTÂNCIA 214 – ÓTIMO: Custo 3990022
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 4
+Facility 4 atende clientes: 7 12 13 14
+Facility 5 atende clientes: 1 2 3 6 8 9 10
+Facility 6 atende clientes: 5 11
+
+INSTÂNCIA 215 – ÓTIMO: Custo 6169409
+Facilities abertas: 1 2 3 5 6
+Facility 1 atende clientes: 6
+Facility 2 atende clientes: 11
+Facility 3 atende clientes: 1 2 5 7 10 12 13 14
+Facility 5 atende clientes: 3 9
+Facility 6 atende clientes: 4 8
+
+INSTÂNCIA 216 – ÓTIMO: Custo 5315828
+Facilities abertas: 1 4 5
+Facility 1 atende clientes: 1 4 7
+Facility 4 atende clientes: 9 11 14
+Facility 5 atende clientes: 2 3 5 6 8 10 12 13
+
+INSTÂNCIA 217 – ÓTIMO: Custo 3400821
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 5 6 8 9 11 12 14
+Facility 3 atende clientes: 1 2 3 7 10 13
+Facility 5 atende clientes: 4
+
+INSTÂNCIA 218 – ÓTIMO: Custo 2449020
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 3 4 5 6 7 8 11 14
+Facility 2 atende clientes: 2
+Facility 3 atende clientes: 10
+Facility 4 atende clientes: 1 9 12 13
+
+INSTÂNCIA 219 – ÓTIMO: Custo 6913260
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 1 13
+Facility 2 atende clientes: 3 5 6 8 9 10 11
+Facility 4 atende clientes: 2 7 12
+Facility 5 atende clientes: 4 14
+
+INSTÂNCIA 220 – ÓTIMO: Custo 5362567
+Facilities abertas: 3 4 5 6
+Facility 3 atende clientes: 3 4 5 9 10 12 13 14
+Facility 4 atende clientes: 1
+Facility 5 atende clientes: 8 11
+Facility 6 atende clientes: 2 6 7
+
+INSTÂNCIA 221 – ÓTIMO: Custo 2019708
+Facilities abertas: 1 3 4
+Facility 1 atende clientes: 5 9
+Facility 3 atende clientes: 1 4 10 14
+Facility 4 atende clientes: 2 3 6 7 8 11 12 13
+
+INSTÂNCIA 222 – ÓTIMO: Custo 6717894
+Facilities abertas: 3 4 6
+Facility 3 atende clientes: 1 2 4 6 8 9 12 14
+Facility 4 atende clientes: 3 5 7 10 11
+Facility 6 atende clientes: 13
+
+INSTÂNCIA 223 – ÓTIMO: Custo 4089604
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 8 12
+Facility 2 atende clientes: 1 3 11
+Facility 3 atende clientes: 2 4 5 7 9 13 14
+Facility 6 atende clientes: 6 10
+
+INSTÂNCIA 224 – ÓTIMO: Custo 6203959
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 3
+Facility 4 atende clientes: 1 4 6 7 11 13
+Facility 5 atende clientes: 2 5 8 9 10 14
+Facility 6 atende clientes: 12
+
+INSTÂNCIA 225 – ÓTIMO: Custo 1105630
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 1 2 3 9 10 12 13
+Facility 3 atende clientes: 4 5 6 7 11 14
+Facility 4 atende clientes: 8
+
+INSTÂNCIA 226 – ÓTIMO: Custo 9067018
+Facilities abertas: 1 2 3 4 6
+Facility 1 atende clientes: 6 13
+Facility 2 atende clientes: 3 8
+Facility 3 atende clientes: 1 12
+Facility 4 atende clientes: 4 5 7
+Facility 6 atende clientes: 2 9 10 11 14
+
+INSTÂNCIA 227 – ÓTIMO: Custo 2291485
+Facilities abertas: 2 5 6
+Facility 2 atende clientes: 3 4 11 12 14
+Facility 5 atende clientes: 2 5 6 7 8 10 13
+Facility 6 atende clientes: 1 9
+
+INSTÂNCIA 228 – ÓTIMO: Custo 9921936
+Facilities abertas: 1 2 3 5 6
+Facility 1 atende clientes: 6 11
+Facility 2 atende clientes: 7
+Facility 3 atende clientes: 1 2 3 5 12
+Facility 5 atende clientes: 4 8 9 10 13
+Facility 6 atende clientes: 14
+
+INSTÂNCIA 229 – ÓTIMO: Custo 3976839
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 3 4 6 10 12
+Facility 3 atende clientes: 5 11
+Facility 4 atende clientes: 1 2 8 9 13 14
+Facility 5 atende clientes: 7
+
+INSTÂNCIA 230 – ÓTIMO: Custo 3286621
+Facilities abertas: 3 5 6
+Facility 3 atende clientes: 5 7 12 14
+Facility 5 atende clientes: 1 4 9 11
+Facility 6 atende clientes: 2 3 6 8 10 13
+
+INSTÂNCIA 231 – ÓTIMO: Custo 2320595
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 2 8
+Facility 3 atende clientes: 1 4 5 6 11 12 14
+Facility 4 atende clientes: 3 7 9 13
+Facility 5 atende clientes: 10
+
+INSTÂNCIA 232 – ÓTIMO: Custo 1278106
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 3 4 6 7 8 9 10 12
+Facility 4 atende clientes: 2
+Facility 5 atende clientes: 1 5 11 13 14
+
+INSTÂNCIA 233 – ÓTIMO: Custo 4677134
+Facilities abertas: 2 3 4 6
+Facility 2 atende clientes: 1 2 4 7 9 11 13
+Facility 3 atende clientes: 5 8 14
+Facility 4 atende clientes: 3 6 10
+Facility 6 atende clientes: 12
+
+INSTÂNCIA 234 – ÓTIMO: Custo 3858030
+Facilities abertas: 2 3 6
+Facility 2 atende clientes: 2 3 7
+Facility 3 atende clientes: 1 4 5 6 9 10 12 13
+Facility 6 atende clientes: 8 11 14
+
+INSTÂNCIA 235 – ÓTIMO: Custo 5350098
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 4 12
+Facility 2 atende clientes: 1 2 3 6 7 9 13 14
+Facility 4 atende clientes: 5 8 10
+Facility 6 atende clientes: 11
+
+INSTÂNCIA 236 – ÓTIMO: Custo 9003905
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 1 2 7 12 13
+Facility 2 atende clientes: 14
+Facility 4 atende clientes: 4 6 8 9 10 11
+Facility 6 atende clientes: 3 5
+
+INSTÂNCIA 237 – ÓTIMO: Custo 6405905
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 4
+Facility 2 atende clientes: 6 10
+Facility 4 atende clientes: 1 2 3 7 8 11 12
+Facility 5 atende clientes: 5 9 13 14
+
+INSTÂNCIA 238 – ÓTIMO: Custo 5820325
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 8
+Facility 3 atende clientes: 1 2 6 7 9 12
+Facility 5 atende clientes: 3 5 10 14
+Facility 6 atende clientes: 4 11 13
+
+INSTÂNCIA 239 – ÓTIMO: Custo 3064512
+Facilities abertas: 3 5 6
+Facility 3 atende clientes: 1 2 3 5 6 12 13 14
+Facility 5 atende clientes: 7 8 10
+Facility 6 atende clientes: 4 9 11
+
+INSTÂNCIA 240 – ÓTIMO: Custo 4838248
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 4 13
+Facility 4 atende clientes: 14
+Facility 5 atende clientes: 1 7 12
+Facility 6 atende clientes: 2 3 5 6 8 9 10 11
+
+INSTÂNCIA 241 – ÓTIMO: Custo 5709449
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 6 14
+Facility 3 atende clientes: 3 5 8 9 10 11
+Facility 4 atende clientes: 1 2 4 7 13
+Facility 5 atende clientes: 12
+
+INSTÂNCIA 242 – ÓTIMO: Custo 2609368
+Facilities abertas: 3 4 6
+Facility 3 atende clientes: 1 3 4 7 11 13
+Facility 4 atende clientes: 2 6 8 9 12 14
+Facility 6 atende clientes: 5 10
+
+INSTÂNCIA 243 – ÓTIMO: Custo 9080517
+Facilities abertas: 1 2 4 5 6
+Facility 1 atende clientes: 4 13
+Facility 2 atende clientes: 10
+Facility 4 atende clientes: 1 2 7 8 11 12 14
+Facility 5 atende clientes: 5 6 9
+Facility 6 atende clientes: 3
+
+INSTÂNCIA 244 – ÓTIMO: Custo 6865825
+Facilities abertas: 2 3 6
+Facility 2 atende clientes: 2 6 8
+Facility 3 atende clientes: 1 3 4 10 14
+Facility 6 atende clientes: 5 7 9 11 12 13
+
+INSTÂNCIA 245 – ÓTIMO: Custo 4502035
+Facilities abertas: 3 4 6
+Facility 3 atende clientes: 1 3 10 11 12 13
+Facility 4 atende clientes: 7
+Facility 6 atende clientes: 2 4 5 6 8 9 14
+
+INSTÂNCIA 246 – ÓTIMO: Custo 4224468
+Facilities abertas: 2 4 5
+Facility 2 atende clientes: 6 7 10
+Facility 4 atende clientes: 1 2 3 5 8 9 12 14
+Facility 5 atende clientes: 4 11 13
+
+INSTÂNCIA 247 – ÓTIMO: Custo 6206110
+Facilities abertas: 2 3 5
+Facility 2 atende clientes: 2 3 4 6 10 11 12 14
+Facility 3 atende clientes: 1 5 13
+Facility 5 atende clientes: 7 8 9
+
+INSTÂNCIA 248 – ÓTIMO: Custo 2572586
+Facilities abertas: 2 3 4 6
+Facility 2 atende clientes: 1 3 4 6 8 13 14
+Facility 3 atende clientes: 2 10 12
+Facility 4 atende clientes: 5 9 11
+Facility 6 atende clientes: 7
+
+INSTÂNCIA 249 – ÓTIMO: Custo 1261218
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 12
+Facility 3 atende clientes: 1 2 3 6 7 8 11 14
+Facility 4 atende clientes: 4 5 13
+Facility 5 atende clientes: 9 10
+
+INSTÂNCIA 250 – ÓTIMO: Custo 6047992
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 2
+Facility 2 atende clientes: 7 8 13
+Facility 4 atende clientes: 3 6 9 10 14
+Facility 6 atende clientes: 1 4 5 11 12
+
+INSTÂNCIA 251 – ÓTIMO: Custo 7702316
+Facilities abertas: 2 3 4 5 6
+Facility 2 atende clientes: 1 6 7
+Facility 3 atende clientes: 14
+Facility 4 atende clientes: 2 4 5 8 9 12 13
+Facility 5 atende clientes: 10
+Facility 6 atende clientes: 3 11
+
+INSTÂNCIA 252 – ÓTIMO: Custo 6480549
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 2 4 7 8 11 12 13
+Facility 2 atende clientes: 1 3 5 9 14
+Facility 5 atende clientes: 6 10
+
+INSTÂNCIA 253 – ÓTIMO: Custo 2833842
+Facilities abertas: 1 2 3 4
+Facility 1 atende clientes: 1 7 8
+Facility 2 atende clientes: 3 4 9 10 11 12 14
+Facility 3 atende clientes: 5
+Facility 4 atende clientes: 2 6 13
+
+INSTÂNCIA 254 – ÓTIMO: Custo 5968740
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 1 11 13 14
+Facility 3 atende clientes: 3 12
+Facility 5 atende clientes: 4 5 6 7 8 9 10
+Facility 6 atende clientes: 2
+
+INSTÂNCIA 255 – ÓTIMO: Custo 3688591
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 8
+Facility 2 atende clientes: 11 12 13
+Facility 4 atende clientes: 7 10
+Facility 5 atende clientes: 1 2 3 4 5 6 9 14
+
+INSTÂNCIA 256 – ÓTIMO: Custo 9367024
+Facilities abertas: 1 3 4 6
+Facility 1 atende clientes: 7
+Facility 3 atende clientes: 2 3 4 6 8 11 13
+Facility 4 atende clientes: 1 5 9 12
+Facility 6 atende clientes: 10 14
+
+INSTÂNCIA 257 – ÓTIMO: Custo 5975831
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 7 10 12
+Facility 3 atende clientes: 13
+Facility 4 atende clientes: 1 2 3 4 5 6 11 14
+Facility 5 atende clientes: 8 9
+
+INSTÂNCIA 258 – ÓTIMO: Custo 5778889
+Facilities abertas: 2 4 5 6
+Facility 2 atende clientes: 1 2 3 6 9 10 12
+Facility 4 atende clientes: 13
+Facility 5 atende clientes: 4 7 8 14
+Facility 6 atende clientes: 5 11
+
+INSTÂNCIA 259 – ÓTIMO: Custo 4366998
+Facilities abertas: 1 3 6
+Facility 1 atende clientes: 3 12
+Facility 3 atende clientes: 1 4 7 8 9 11 13 14
+Facility 6 atende clientes: 2 5 6 10
+
+INSTÂNCIA 260 – ÓTIMO: Custo 7934058
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 14
+Facility 2 atende clientes: 3 7 12
+Facility 3 atende clientes: 1 4 5 6 8 9 10
+Facility 6 atende clientes: 2 11 13
+
+INSTÂNCIA 261 – ÓTIMO: Custo 1844683
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 7 11
+Facility 2 atende clientes: 1 4 6 8 10 12 13 14
+Facility 3 atende clientes: 2 5 9
+Facility 5 atende clientes: 3
+
+INSTÂNCIA 262 – ÓTIMO: Custo 4423420
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 4 5 8 9 14
+Facility 2 atende clientes: 11 13
+Facility 3 atende clientes: 1 2 3 6 7 12
+Facility 5 atende clientes: 10
+
+INSTÂNCIA 263 – ÓTIMO: Custo 3259202
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 7 10
+Facility 2 atende clientes: 3 13
+Facility 3 atende clientes: 8 11 14
+Facility 5 atende clientes: 1 2 4 5 6 9 12
+
+INSTÂNCIA 264 – ÓTIMO: Custo 6039669
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 8 9
+Facility 3 atende clientes: 10 13
+Facility 5 atende clientes: 1 5 14
+Facility 6 atende clientes: 2 3 4 6 7 11 12
+
+INSTÂNCIA 265 – ÓTIMO: Custo 14310711
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 3 4 7 13 14
+Facility 3 atende clientes: 1 2 8 9 12
+Facility 5 atende clientes: 6
+Facility 6 atende clientes: 5 10 11
+
+INSTÂNCIA 266 – ÓTIMO: Custo 5387486
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 3 6 9 10 14
+Facility 2 atende clientes: 12 13
+Facility 3 atende clientes: 4
+Facility 4 atende clientes: 1 2 5 7 11
+Facility 5 atende clientes: 8
+
+INSTÂNCIA 267 – ÓTIMO: Custo 1624086
+Facilities abertas: 2 5 6
+Facility 2 atende clientes: 3 5 6 13 14
+Facility 5 atende clientes: 1 4 7 10 11 12
+Facility 6 atende clientes: 2 8 9
+
+INSTÂNCIA 268 – ÓTIMO: Custo 1938484
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 2 10 14
+Facility 2 atende clientes: 3 4 5 6 7 8 11
+Facility 4 atende clientes: 1 9 12 13
+
+INSTÂNCIA 269 – ÓTIMO: Custo 6794216
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 1
+Facility 3 atende clientes: 4 7 8 11 13
+Facility 5 atende clientes: 5 9
+Facility 6 atende clientes: 2 3 6 10 12 14
+
+INSTÂNCIA 270 – ÓTIMO: Custo 3434353
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 4 5 6 7
+Facility 4 atende clientes: 12
+Facility 5 atende clientes: 9 11
+Facility 6 atende clientes: 1 2 3 8 10 13 14
+
+INSTÂNCIA 271 – ÓTIMO: Custo 3750368
+Facilities abertas: 3 4 5 6
+Facility 3 atende clientes: 5 10
+Facility 4 atende clientes: 3 6 11
+Facility 5 atende clientes: 2 14
+Facility 6 atende clientes: 1 4 7 8 9 12 13
+
+INSTÂNCIA 272 – ÓTIMO: Custo 5218377
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 4 8
+Facility 2 atende clientes: 3
+Facility 3 atende clientes: 5 7 9 10 11 13 14
+Facility 6 atende clientes: 1 2 6 12
+
+INSTÂNCIA 273 – ÓTIMO: Custo 3736755
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 1 3 5 6 7 11 14
+Facility 2 atende clientes: 2 8 9 12
+Facility 4 atende clientes: 4 10 13
+
+INSTÂNCIA 274 – ÓTIMO: Custo 6507202
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 2 3 7 8 10 11 14
+Facility 2 atende clientes: 13
+Facility 4 atende clientes: 4 12
+Facility 6 atende clientes: 1 5 6 9
+
+INSTÂNCIA 275 – ÓTIMO: Custo 6074602
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 6 14
+Facility 4 atende clientes: 7 11 12
+Facility 5 atende clientes: 3 10
+Facility 6 atende clientes: 1 2 4 5 8 9 13
+
+INSTÂNCIA 276 – ÓTIMO: Custo 880570
+Facilities abertas: 1 5 6
+Facility 1 atende clientes: 2 3 6 7 8 13
+Facility 5 atende clientes: 1 5 9 10 12 14
+Facility 6 atende clientes: 4 11
+
+INSTÂNCIA 277 – ÓTIMO: Custo 2324498
+Facilities abertas: 3 5 6
+Facility 3 atende clientes: 1 2 6 10 13
+Facility 5 atende clientes: 3 4 5 7 8 9 11 12
+Facility 6 atende clientes: 14
+
+INSTÂNCIA 278 – ÓTIMO: Custo 5196028
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 12
+Facility 2 atende clientes: 2 5 6 10 13 14
+Facility 3 atende clientes: 9
+Facility 6 atende clientes: 1 3 4 7 8 11
+
+INSTÂNCIA 279 – ÓTIMO: Custo 4984108
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 4 7
+Facility 2 atende clientes: 5
+Facility 4 atende clientes: 2 3 9 10 12 13
+Facility 6 atende clientes: 1 6 8 11 14
+
+INSTÂNCIA 280 – ÓTIMO: Custo 3091576
+Facilities abertas: 1 2 4
+Facility 1 atende clientes: 2 3 11 12
+Facility 2 atende clientes: 1 8 9
+Facility 4 atende clientes: 4 5 6 7 10 13 14
+
+INSTÂNCIA 281 – ÓTIMO: Custo 4599834
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 1 14
+Facility 2 atende clientes: 6
+Facility 3 atende clientes: 2 3 4 5 7 9 10
+Facility 5 atende clientes: 8 11 12 13
+
+INSTÂNCIA 282 – ÓTIMO: Custo 2591691
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 1 2 5 6 8 9 10 12
+Facility 4 atende clientes: 7
+Facility 5 atende clientes: 3 4 11 13
+Facility 6 atende clientes: 14
+
+INSTÂNCIA 283 – ÓTIMO: Custo 1714047
+Facilities abertas: 3 4 5 6
+Facility 3 atende clientes: 6 14
+Facility 4 atende clientes: 4 12
+Facility 5 atende clientes: 7 9 10
+Facility 6 atende clientes: 1 2 3 5 8 11 13
+
+INSTÂNCIA 284 – ÓTIMO: Custo 2822483
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 6
+Facility 2 atende clientes: 1 2 7 9 10 11 13 14
+Facility 3 atende clientes: 3 12
+Facility 6 atende clientes: 4 5 8
+
+INSTÂNCIA 285 – ÓTIMO: Custo 6015091
+Facilities abertas: 1 3 6
+Facility 1 atende clientes: 3 4 6 11
+Facility 3 atende clientes: 1 2 5 7 8 10 12 13
+Facility 6 atende clientes: 9 14
+
+INSTÂNCIA 286 – ÓTIMO: Custo 5480788
+Facilities abertas: 1 3 4 5 6
+Facility 1 atende clientes: 3
+Facility 3 atende clientes: 7 10
+Facility 4 atende clientes: 9
+Facility 5 atende clientes: 6 8 11 12 14
+Facility 6 atende clientes: 1 2 4 5 13
+
+INSTÂNCIA 287 – ÓTIMO: Custo 3404924
+Facilities abertas: 2 3 4
+Facility 2 atende clientes: 1 3 4 5 7 9 10 12
+Facility 3 atende clientes: 14
+Facility 4 atende clientes: 2 6 8 11 13
+
+INSTÂNCIA 288 – ÓTIMO: Custo 4859210
+Facilities abertas: 2 3 4 6
+Facility 2 atende clientes: 8 10
+Facility 3 atende clientes: 1 3 4 5 7 9 13
+Facility 4 atende clientes: 12
+Facility 6 atende clientes: 2 6 11 14
+
+INSTÂNCIA 289 – ÓTIMO: Custo 5373922
+Facilities abertas: 2 5 6
+Facility 2 atende clientes: 4 5 6 8 10 13
+Facility 5 atende clientes: 2 9 11 14
+Facility 6 atende clientes: 1 3 7 12
+
+INSTÂNCIA 290 – ÓTIMO: Custo 2629170
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 2 3 6 7 14
+Facility 2 atende clientes: 12
+Facility 4 atende clientes: 1 4 5 8 9 10 11
+Facility 5 atende clientes: 13
+
+INSTÂNCIA 291 – ÓTIMO: Custo 5344667
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 2 5 6 7 10 11 14
+Facility 4 atende clientes: 3 4
+Facility 5 atende clientes: 1 8 12
+Facility 6 atende clientes: 9 13
+
+INSTÂNCIA 292 – ÓTIMO: Custo 5443221
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 1 3 6 8 9 11 12
+Facility 3 atende clientes: 5 10
+Facility 4 atende clientes: 4 13
+Facility 5 atende clientes: 2 7 14
+
+INSTÂNCIA 293 – ÓTIMO: Custo 6019323
+Facilities abertas: 2 3 4 6
+Facility 2 atende clientes: 5
+Facility 3 atende clientes: 1 4 6 8 10 11
+Facility 4 atende clientes: 2 3 7 13
+Facility 6 atende clientes: 9 12 14
+
+INSTÂNCIA 294 – ÓTIMO: Custo 9028526
+Facilities abertas: 1 2 5
+Facility 1 atende clientes: 2 3 5 6 11 12 13
+Facility 2 atende clientes: 1 7 8 14
+Facility 5 atende clientes: 4 9 10
+
+INSTÂNCIA 295 – ÓTIMO: Custo 6387577
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 1 5 6 13
+Facility 2 atende clientes: 11
+Facility 4 atende clientes: 2 3 4 8 9 10 12
+Facility 5 atende clientes: 7 14
+
+INSTÂNCIA 296 – ÓTIMO: Custo 3519072
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 11
+Facility 3 atende clientes: 2 3 5 9 14
+Facility 5 atende clientes: 6 13
+Facility 6 atende clientes: 1 4 7 8 10 12
+
+INSTÂNCIA 297 – ÓTIMO: Custo 3865097
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 1 2 4 6 11 13 14
+Facility 3 atende clientes: 3 5 7 9 12
+Facility 4 atende clientes: 10
+Facility 5 atende clientes: 8
+
+INSTÂNCIA 298 – ÓTIMO: Custo 4898538
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 9 12
+Facility 2 atende clientes: 14
+Facility 4 atende clientes: 1 5 8 11
+Facility 5 atende clientes: 2 3 4 6 7 10 13
+
+INSTÂNCIA 299 – ÓTIMO: Custo 4889067
+Facilities abertas: 1 2 4 5
+Facility 1 atende clientes: 3 5 6 9 10
+Facility 2 atende clientes: 13
+Facility 4 atende clientes: 1 2 4 7 8 11 12
+Facility 5 atende clientes: 14
+
+INSTÂNCIA 300 – ÓTIMO: Custo 5668605
+Facilities abertas: 1 3 4 5 6
+Facility 1 atende clientes: 13
+Facility 3 atende clientes: 3 4 8 12 14
+Facility 4 atende clientes: 1 2 5 7 9 11
+Facility 5 atende clientes: 6
+Facility 6 atende clientes: 10
+
+INSTÂNCIA 301 – ÓTIMO: Custo 3621708
+Facilities abertas: 2 3 4 6 7
+Facility 2 atende clientes: 5 10 12 15
+Facility 3 atende clientes: 1 11
+Facility 4 atende clientes: 2 3 4 7 13 14 16
+Facility 6 atende clientes: 6 9
+Facility 7 atende clientes: 8
+
+INSTÂNCIA 302 – ÓTIMO: Custo 3371259
+Facilities abertas: 1 2 5 7
+Facility 1 atende clientes: 10
+Facility 2 atende clientes: 4 5 6 8 12 15
+Facility 5 atende clientes: 9 16
+Facility 7 atende clientes: 1 2 3 7 11 13 14
+
+INSTÂNCIA 303 – ÓTIMO: Custo 11758671
+Facilities abertas: 1 2 3 5 6 7
+Facility 1 atende clientes: 1 8 13 14 15 16
+Facility 2 atende clientes: 3 9
+Facility 3 atende clientes: 2 4 7 10
+Facility 5 atende clientes: 12
+Facility 6 atende clientes: 6
+Facility 7 atende clientes: 5 11
+
+INSTÂNCIA 304 – ÓTIMO: Custo 3766421
+Facilities abertas: 1 2 4 5 6 7
+Facility 1 atende clientes: 3 6 10
+Facility 2 atende clientes: 16
+Facility 4 atende clientes: 2 4 5 8 9 11 13 14
+Facility 5 atende clientes: 7 15
+Facility 6 atende clientes: 1
+Facility 7 atende clientes: 12
+
+INSTÂNCIA 305 – ÓTIMO: Custo 7141534
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 1 4 5 6 7 9 10 14
+Facility 4 atende clientes: 3 13
+Facility 5 atende clientes: 2 8 12
+Facility 6 atende clientes: 11 15 16
+
+INSTÂNCIA 306 – ÓTIMO: Custo 8653379
+Facilities abertas: 1 2 3 4 5 6 7
+Facility 1 atende clientes: 1 7
+Facility 2 atende clientes: 3
+Facility 3 atende clientes: 13
+Facility 4 atende clientes: 4
+Facility 5 atende clientes: 2 5 11
+Facility 6 atende clientes: 6 8 9 10 12 15 16
+Facility 7 atende clientes: 14
+
+INSTÂNCIA 307 – ÓTIMO: Custo 7187670
+Facilities abertas: 2 3 4 6 7
+Facility 2 atende clientes: 1 4 5 13
+Facility 3 atende clientes: 6 7 11
+Facility 4 atende clientes: 8 10
+Facility 6 atende clientes: 3 16
+Facility 7 atende clientes: 2 9 12 14 15
+
+INSTÂNCIA 308 – ÓTIMO: Custo 7194371
+Facilities abertas: 2 3 4 6 7
+Facility 2 atende clientes: 5
+Facility 3 atende clientes: 3
+Facility 4 atende clientes: 2 11
+Facility 6 atende clientes: 4 7 9 10 13
+Facility 7 atende clientes: 1 6 8 12 14 15 16
+
+INSTÂNCIA 309 – ÓTIMO: Custo 7406973
+Facilities abertas: 1 3 4 5 7
+Facility 1 atende clientes: 4
+Facility 3 atende clientes: 2 5 7 10 11 13
+Facility 4 atende clientes: 1 3 6 9 14
+Facility 5 atende clientes: 12 15
+Facility 7 atende clientes: 8 16
+
+INSTÂNCIA 310 – ÓTIMO: Custo 3077632
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 4 11 12 16
+Facility 2 atende clientes: 14
+Facility 3 atende clientes: 2 3 8 13
+Facility 5 atende clientes: 1 5 6 7 9 10 15
+
+INSTÂNCIA 311 – ÓTIMO: Custo 5170718
+Facilities abertas: 1 2 5 6
+Facility 1 atende clientes: 4 6 7 12 14
+Facility 2 atende clientes: 1 2 8 13 15
+Facility 5 atende clientes: 3 5 9 11
+Facility 6 atende clientes: 10 16
+
+INSTÂNCIA 312 – ÓTIMO: Custo 10741635
+Facilities abertas: 1 2 3 6 7
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 1 4 5 12 16
+Facility 3 atende clientes: 3 13
+Facility 6 atende clientes: 8
+Facility 7 atende clientes: 2 6 7 10 11 14 15
+
+INSTÂNCIA 313 – ÓTIMO: Custo 4430592
+Facilities abertas: 2 3 5 6 7
+Facility 2 atende clientes: 1 5 6 9
+Facility 3 atende clientes: 11 15
+Facility 5 atende clientes: 4 12
+Facility 6 atende clientes: 3 7 8 10 13 14 16
+Facility 7 atende clientes: 2
+
+INSTÂNCIA 314 – ÓTIMO: Custo 7903897
+Facilities abertas: 2 4 5 7
+Facility 2 atende clientes: 8
+Facility 4 atende clientes: 3 6 10 15
+Facility 5 atende clientes: 1 4 5 9 11 12 13 14
+Facility 7 atende clientes: 2 7 16
+
+INSTÂNCIA 315 – ÓTIMO: Custo 5686819
+Facilities abertas: 1 2 3 5 7
+Facility 1 atende clientes: 5 7 10 14
+Facility 2 atende clientes: 1 2 4 15 16
+Facility 3 atende clientes: 3 8 11 13
+Facility 5 atende clientes: 6
+Facility 7 atende clientes: 9 12
+
+INSTÂNCIA 316 – ÓTIMO: Custo 3697281
+Facilities abertas: 1 2 3 5 7
+Facility 1 atende clientes: 4 8 10
+Facility 2 atende clientes: 1 3 6 9 11 12 15
+Facility 3 atende clientes: 7
+Facility 5 atende clientes: 2 5 13 14
+Facility 7 atende clientes: 16
+
+INSTÂNCIA 317 – ÓTIMO: Custo 7336945
+Facilities abertas: 1 2 4 5 7
+Facility 1 atende clientes: 1 9 15
+Facility 2 atende clientes: 3 5 8 10 14
+Facility 4 atende clientes: 4 11
+Facility 5 atende clientes: 2 7 12 13 16
+Facility 7 atende clientes: 6
+
+INSTÂNCIA 318 – ÓTIMO: Custo 7252065
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 2
+Facility 2 atende clientes: 8 12 14
+Facility 3 atende clientes: 4 5
+Facility 4 atende clientes: 1 7 10 13
+Facility 5 atende clientes: 3 6 9 11 15 16
+
+INSTÂNCIA 319 – ÓTIMO: Custo 9437383
+Facilities abertas: 1 4 5 7
+Facility 1 atende clientes: 3 7
+Facility 4 atende clientes: 15
+Facility 5 atende clientes: 2 4 6 13 14
+Facility 7 atende clientes: 1 5 8 9 10 11 12 16
+
+INSTÂNCIA 320 – ÓTIMO: Custo 3470509
+Facilities abertas: 4 5 6 7
+Facility 4 atende clientes: 3 4 5 6 7 8 13 15
+Facility 5 atende clientes: 11
+Facility 6 atende clientes: 2 9 10 12 14 16
+Facility 7 atende clientes: 1
+
+INSTÂNCIA 321 – ÓTIMO: Custo 5143415
+Facilities abertas: 1 2 3 5 7
+Facility 1 atende clientes: 8
+Facility 2 atende clientes: 4 11
+Facility 3 atende clientes: 9
+Facility 5 atende clientes: 2 3 7 10 15 16
+Facility 7 atende clientes: 1 5 6 12 13 14
+
+INSTÂNCIA 322 – ÓTIMO: Custo 8756702
+Facilities abertas: 1 3 5 6 7
+Facility 1 atende clientes: 12
+Facility 3 atende clientes: 11 16
+Facility 5 atende clientes: 4 5 13 14 15
+Facility 6 atende clientes: 7
+Facility 7 atende clientes: 1 2 3 6 8 9 10
+
+INSTÂNCIA 323 – ÓTIMO: Custo 6242521
+Facilities abertas: 1 2 3 6
+Facility 1 atende clientes: 4
+Facility 2 atende clientes: 1 3 5 7 10 11 15 16
+Facility 3 atende clientes: 2 12
+Facility 6 atende clientes: 6 8 9 13 14
+
+INSTÂNCIA 324 – ÓTIMO: Custo 6816882
+Facilities abertas: 2 3 4 5 6
+Facility 2 atende clientes: 2 7
+Facility 3 atende clientes: 8
+Facility 4 atende clientes: 9 11 12 15 16
+Facility 5 atende clientes: 1 3 5 6 10 13
+Facility 6 atende clientes: 4 14
+
+INSTÂNCIA 325 – ÓTIMO: Custo 8398073
+Facilities abertas: 1 2 3 4 6
+Facility 1 atende clientes: 2 8 10 11 12 16
+Facility 2 atende clientes: 13
+Facility 3 atende clientes: 1 7 14 15
+Facility 4 atende clientes: 6
+Facility 6 atende clientes: 3 4 5 9
+
+INSTÂNCIA 326 – ÓTIMO: Custo 8371242
+Facilities abertas: 1 2 3 6 7
+Facility 1 atende clientes: 8 9 13 15 16
+Facility 2 atende clientes: 10
+Facility 3 atende clientes: 1
+Facility 6 atende clientes: 4 12
+Facility 7 atende clientes: 2 3 5 6 7 11 14
+
+INSTÂNCIA 327 – ÓTIMO: Custo 5772107
+Facilities abertas: 3 4 6 7
+Facility 3 atende clientes: 1 3 7 10
+Facility 4 atende clientes: 2
+Facility 6 atende clientes: 9 12 14 16
+Facility 7 atende clientes: 4 5 6 8 11 13 15
+
+INSTÂNCIA 328 – ÓTIMO: Custo 5604030
+Facilities abertas: 1 4 6 7
+Facility 1 atende clientes: 1 2 5 6 14
+Facility 4 atende clientes: 8 9 11 12 13
+Facility 6 atende clientes: 7
+Facility 7 atende clientes: 3 4 10 15 16
+
+INSTÂNCIA 329 – ÓTIMO: Custo 4038586
+Facilities abertas: 1 2 3 5 6
+Facility 1 atende clientes: 11
+Facility 2 atende clientes: 2 5 6 8 13
+Facility 3 atende clientes: 3 4 10 12 15 16
+Facility 5 atende clientes: 1 7
+Facility 6 atende clientes: 9 14
+
+INSTÂNCIA 330 – ÓTIMO: Custo 1962872
+Facilities abertas: 3 6 7
+Facility 3 atende clientes: 3 4 5 8 9
+Facility 6 atende clientes: 1 2 6 10 11 12 13 14
+Facility 7 atende clientes: 7 15 16
+
+INSTÂNCIA 331 – ÓTIMO: Custo 5595255
+Facilities abertas: 1 2 3 4 5 7
+Facility 1 atende clientes: 1 2 4 7 11 13 15 16
+Facility 2 atende clientes: 8
+Facility 3 atende clientes: 9
+Facility 4 atende clientes: 10
+Facility 5 atende clientes: 6
+Facility 7 atende clientes: 3 5 12 14
+
+INSTÂNCIA 332 – ÓTIMO: Custo 4670958
+Facilities abertas: 1 3 4 5 6
+Facility 1 atende clientes: 2 4 9 10 16
+Facility 3 atende clientes: 14
+Facility 4 atende clientes: 3 5 6 8 11 12 15
+Facility 5 atende clientes: 1 7
+Facility 6 atende clientes: 13
+
+INSTÂNCIA 333 – ÓTIMO: Custo 8953759
+Facilities abertas: 3 4 5 7
+Facility 3 atende clientes: 2 3 5 9 10
+Facility 4 atende clientes: 11 16
+Facility 5 atende clientes: 1 4 6 8 12 13 15
+Facility 7 atende clientes: 7 14
+
+INSTÂNCIA 334 – ÓTIMO: Custo 8947291
+Facilities abertas: 2 5 6 7
+Facility 2 atende clientes: 3 6 7 10 14 15
+Facility 5 atende clientes: 1 2 8
+Facility 6 atende clientes: 4 5 9 13 16
+Facility 7 atende clientes: 11 12
+
+INSTÂNCIA 335 – ÓTIMO: Custo 8299302
+Facilities abertas: 1 4 5 7
+Facility 1 atende clientes: 4 6 9 10 13 15
+Facility 4 atende clientes: 14
+Facility 5 atende clientes: 5 7 8
+Facility 7 atende clientes: 1 2 3 11 12 16
+
+INSTÂNCIA 336 – ÓTIMO: Custo 4622335
+Facilities abertas: 3 4 5 6
+Facility 3 atende clientes: 1 2 4 5 8 13 14 16
+Facility 4 atende clientes: 3 7 12
+Facility 5 atende clientes: 6
+Facility 6 atende clientes: 9 10 11 15
+
+INSTÂNCIA 337 – ÓTIMO: Custo 4603920
+Facilities abertas: 2 3 4 5 7
+Facility 2 atende clientes: 7 8 10 12 15
+Facility 3 atende clientes: 14
+Facility 4 atende clientes: 2 9
+Facility 5 atende clientes: 11 16
+Facility 7 atende clientes: 1 3 4 5 6 13
+
+INSTÂNCIA 338 – ÓTIMO: Custo 4859550
+Facilities abertas: 3 4 5
+Facility 3 atende clientes: 6 8 11 14
+Facility 4 atende clientes: 1 3 7 10
+Facility 5 atende clientes: 2 4 5 9 12 13 15 16
+
+INSTÂNCIA 339 – ÓTIMO: Custo 1944732
+Facilities abertas: 1 2 3 7
+Facility 1 atende clientes: 6 7 10
+Facility 2 atende clientes: 2 3 4 5 9 11 14 15
+Facility 3 atende clientes: 12 16
+Facility 7 atende clientes: 1 8 13
+
+INSTÂNCIA 340 – ÓTIMO: Custo 6930395
+Facilities abertas: 2 4 5 6
+Facility 2 atende clientes: 2 4 5 8 9 12 13 16
+Facility 4 atende clientes: 6
+Facility 5 atende clientes: 1 7 10 11 14 15
+Facility 6 atende clientes: 3
+
+INSTÂNCIA 341 – ÓTIMO: Custo 5600286
+Facilities abertas: 3 5 6 7
+Facility 3 atende clientes: 2
+Facility 5 atende clientes: 5 6 7 9 10 15 16
+Facility 6 atende clientes: 1 4 8 11 12 13 14
+Facility 7 atende clientes: 3
+
+INSTÂNCIA 342 – ÓTIMO: Custo 7543313
+Facilities abertas: 2 3 4 5 6 7
+Facility 2 atende clientes: 1 2 5 10 11 12 14 15
+Facility 3 atende clientes: 4 6
+Facility 4 atende clientes: 9 16
+Facility 5 atende clientes: 3 7
+Facility 6 atende clientes: 8
+Facility 7 atende clientes: 13
+
+INSTÂNCIA 343 – ÓTIMO: Custo 4086609
+Facilities abertas: 1 2 3 7
+Facility 1 atende clientes: 1 2 4 5 6 9 13
+Facility 2 atende clientes: 3 8 11 12 15
+Facility 3 atende clientes: 7 10 14
+Facility 7 atende clientes: 16
+
+INSTÂNCIA 344 – ÓTIMO: Custo 7662506
+Facilities abertas: 1 2 3 4 5
+Facility 1 atende clientes: 6
+Facility 2 atende clientes: 4
+Facility 3 atende clientes: 7 11
+Facility 4 atende clientes: 1 5 9 10 15
+Facility 5 atende clientes: 2 3 8 12 13 14 16
+
+INSTÂNCIA 345 – ÓTIMO: Custo 3736798
+Facilities abertas: 3 6 7
+Facility 3 atende clientes: 7 10 11 13 14
+Facility 6 atende clientes: 1 4 8 12 16
+Facility 7 atende clientes: 2 3 5 6 9 15
+
+INSTÂNCIA 346 – ÓTIMO: Custo 9738471
+Facilities abertas: 1 2 5 6 7
+Facility 1 atende clientes: 12 13
+Facility 2 atende clientes: 1 4 6 7 8 9 15
+Facility 5 atende clientes: 5
+Facility 6 atende clientes: 2 3 11 14
+Facility 7 atende clientes: 10 16
+
+INSTÂNCIA 347 – ÓTIMO: Custo 7981017
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 6 7 13 14
+Facility 4 atende clientes: 2 5 8 9 15
+Facility 5 atende clientes: 12
+Facility 6 atende clientes: 1 3 4 10 11 16
+
+INSTÂNCIA 348 – ÓTIMO: Custo 6802032
+Facilities abertas: 2 3 5 6
+Facility 2 atende clientes: 1 2 10
+Facility 3 atende clientes: 5 6 9 12 13 14
+Facility 5 atende clientes: 4 7
+Facility 6 atende clientes: 3 8 11 15 16
+
+INSTÂNCIA 349 – ÓTIMO: Custo 3682699
+Facilities abertas: 1 5 6 7
+Facility 1 atende clientes: 1 2 3 4 5 7 12
+Facility 5 atende clientes: 6 8 11
+Facility 6 atende clientes: 15
+Facility 7 atende clientes: 9 10 13 14 16
+
+INSTÂNCIA 350 – ÓTIMO: Custo 9303759
+Facilities abertas: 1 2 3 4 5 7
+Facility 1 atende clientes: 2 3 4 7 10 11 14
+Facility 2 atende clientes: 16
+Facility 3 atende clientes: 9 15
+Facility 4 atende clientes: 1 5 12
+Facility 5 atende clientes: 8
+Facility 7 atende clientes: 6 13
+
+INSTÂNCIA 351 – ÓTIMO: Custo 5334108
+Facilities abertas: 2 3 4 5 7
+Facility 2 atende clientes: 2 3 10 11 15 16
+Facility 3 atende clientes: 6
+Facility 4 atende clientes: 4 9 12
+Facility 5 atende clientes: 1 7 8 13 14
+Facility 7 atende clientes: 5
+
+INSTÂNCIA 352 – ÓTIMO: Custo 6639069
+Facilities abertas: 1 3 4 5 7
+Facility 1 atende clientes: 16
+Facility 3 atende clientes: 1 7 11 14
+Facility 4 atende clientes: 4 15
+Facility 5 atende clientes: 6 13
+Facility 7 atende clientes: 2 3 5 8 9 10 12
+
+INSTÂNCIA 353 – ÓTIMO: Custo 7072081
+Facilities abertas: 1 2 3 4 6
+Facility 1 atende clientes: 8 10
+Facility 2 atende clientes: 2 3 5 6 9 11 13 15
+Facility 3 atende clientes: 4 14 16
+Facility 4 atende clientes: 7 12
+Facility 6 atende clientes: 1
+
+INSTÂNCIA 354 – ÓTIMO: Custo 6722728
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 2 8 10 14
+Facility 3 atende clientes: 1 4 6 7 12 13 16
+Facility 4 atende clientes: 11
+Facility 5 atende clientes: 3 5 9 15
+
+INSTÂNCIA 355 – ÓTIMO: Custo 8290196
+Facilities abertas: 2 4 5 7
+Facility 2 atende clientes: 4 14
+Facility 4 atende clientes: 1 2 5 6 11 16
+Facility 5 atende clientes: 7 8 13
+Facility 7 atende clientes: 3 9 10 12 15
+
+INSTÂNCIA 356 – ÓTIMO: Custo 7189464
+Facilities abertas: 2 4 5 6 7
+Facility 2 atende clientes: 1 3 6 7 8 15
+Facility 4 atende clientes: 2 5 9 11 13 16
+Facility 5 atende clientes: 4 10
+Facility 6 atende clientes: 14
+Facility 7 atende clientes: 12
+
+INSTÂNCIA 357 – ÓTIMO: Custo 8439380
+Facilities abertas: 1 2 3 4 5 6
+Facility 1 atende clientes: 7
+Facility 2 atende clientes: 1 3 5 9 11 12 14 16
+Facility 3 atende clientes: 6 8 13 15
+Facility 4 atende clientes: 4
+Facility 5 atende clientes: 10
+Facility 6 atende clientes: 2
+
+INSTÂNCIA 358 – ÓTIMO: Custo 10491918
+Facilities abertas: 1 2 3 4 5 7
+Facility 1 atende clientes: 13
+Facility 2 atende clientes: 7 11 15
+Facility 3 atende clientes: 12
+Facility 4 atende clientes: 4 9
+Facility 5 atende clientes: 1 2 3 5 6 10 14 16
+Facility 7 atende clientes: 8
+
+INSTÂNCIA 359 – ÓTIMO: Custo 4040457
+Facilities abertas: 1 2 3 6 7
+Facility 1 atende clientes: 1 5 7 10 13 15
+Facility 2 atende clientes: 16
+Facility 3 atende clientes: 3 8 14
+Facility 6 atende clientes: 6 9
+Facility 7 atende clientes: 2 4 11 12
+
+INSTÂNCIA 360 – ÓTIMO: Custo 12798427
+Facilities abertas: 1 4 5 6 7
+Facility 1 atende clientes: 9
+Facility 4 atende clientes: 3 6 10 12 16
+Facility 5 atende clientes: 1 4 5 11 14
+Facility 6 atende clientes: 7 8 13 15
+Facility 7 atende clientes: 2
+
+INSTÂNCIA 361 – ÓTIMO: Custo 3761278
+Facilities abertas: 2 6 7
+Facility 2 atende clientes: 6 7 8 10 12 15 16
+Facility 6 atende clientes: 1 3 4 5 9 11
+Facility 7 atende clientes: 2 13 14
+
+INSTÂNCIA 362 – ÓTIMO: Custo 2613026
+Facilities abertas: 1 2 5 6 7
+Facility 1 atende clientes: 14
+Facility 2 atende clientes: 9
+Facility 5 atende clientes: 8
+Facility 6 atende clientes: 2 3 5 7 11 12 13 15
+Facility 7 atende clientes: 1 4 6 10 16
+
+INSTÂNCIA 363 – ÓTIMO: Custo 4425247
+Facilities abertas: 1 2 4 6
+Facility 1 atende clientes: 4 7 9 12 14 15
+Facility 2 atende clientes: 2 6
+Facility 4 atende clientes: 1
+Facility 6 atende clientes: 3 5 8 10 11 13 16
+
+INSTÂNCIA 364 – ÓTIMO: Custo 5885287
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 9 10 14
+Facility 3 atende clientes: 11 13 15
+Facility 4 atende clientes: 2 4 5 6 7 8
+Facility 5 atende clientes: 1 3 12 16
+
+INSTÂNCIA 365 – ÓTIMO: Custo 3237862
+Facilities abertas: 1 4 5 6
+Facility 1 atende clientes: 16
+Facility 4 atende clientes: 1 2 5 6 8 11 12 15
+Facility 5 atende clientes: 3 10 14
+Facility 6 atende clientes: 4 7 9 13
+
+INSTÂNCIA 366 – ÓTIMO: Custo 8638831
+Facilities abertas: 1 2 3 5
+Facility 1 atende clientes: 7 14 15 16
+Facility 2 atende clientes: 2 3
+Facility 3 atende clientes: 1 10 12 13
+Facility 5 atende clientes: 4 5 6 8 9 11
+
+INSTÂNCIA 367 – ÓTIMO: Custo 2660807
+Facilities abertas: 3 4 5 6 7
+Facility 3 atende clientes: 2 7 11 12 13 14 16
+Facility 4 atende clientes: 3
+Facility 5 atende clientes: 4
+Facility 6 atende clientes: 5 6 8 9 10 15
+Facility 7 atende clientes: 1
+
+INSTÂNCIA 368 – ÓTIMO: Custo 5408878
+Facilities abertas: 2 3 4 6 7
+Facility 2 atende clientes: 2 3 4 5 9 12 13 16
+Facility 3 atende clientes: 7 10 11 14
+Facility 4 atende clientes: 1 15
+Facility 6 atende clientes: 8
+Facility 7 atende clientes: 6
+
+INSTÂNCIA 369 – ÓTIMO: Custo 2992452
+Facilities abertas: 1 3 4 5 6
+Facility 1 atende clientes: 3
+Facility 3 atende clientes: 4 6 7 9
+Facility 4 atende clientes: 10 12 14
+Facility 5 atende clientes: 1 2 5 11 13 15 16
+Facility 6 atende clientes: 8
+
+INSTÂNCIA 370 – ÓTIMO: Custo 9774304
+Facilities abertas: 3 4 5 6 7
+Facility 3 atende clientes: 8 14
+Facility 4 atende clientes: 2 10
+Facility 5 atende clientes: 1 7 12 16
+Facility 6 atende clientes: 11
+Facility 7 atende clientes: 3 4 5 6 9 13 15
+
+INSTÂNCIA 371 – ÓTIMO: Custo 8310016
+Facilities abertas: 1 2 6 7
+Facility 1 atende clientes: 5 8 16
+Facility 2 atende clientes: 1 2 3 4 6 9 14
+Facility 6 atende clientes: 11
+Facility 7 atende clientes: 7 10 12 13 15
+
+INSTÂNCIA 372 – ÓTIMO: Custo 14047748
+Facilities abertas: 1 2 3 4 5 6
+Facility 1 atende clientes: 1 3 4 8 13 14
+Facility 2 atende clientes: 2
+Facility 3 atende clientes: 7 9 11 16
+Facility 4 atende clientes: 6 12
+Facility 5 atende clientes: 5
+Facility 6 atende clientes: 10 15
+
+INSTÂNCIA 373 – ÓTIMO: Custo 5195812
+Facilities abertas: 1 4 5 6 7
+Facility 1 atende clientes: 8 12 13 14 15
+Facility 4 atende clientes: 10
+Facility 5 atende clientes: 4
+Facility 6 atende clientes: 1 2 3 5 7 9 11 16
+Facility 7 atende clientes: 6
+
+INSTÂNCIA 374 – ÓTIMO: Custo 8280671
+Facilities abertas: 2 5 6 7
+Facility 2 atende clientes: 2 3 5 9 12
+Facility 5 atende clientes: 13 15
+Facility 6 atende clientes: 4 6 7 8 16
+Facility 7 atende clientes: 1 10 11 14
+
+INSTÂNCIA 375 – ÓTIMO: Custo 4548577
+Facilities abertas: 1 3 4 5 7
+Facility 1 atende clientes: 16
+Facility 3 atende clientes: 3 4 6 8 12 13 14 15
+Facility 4 atende clientes: 1 5 7 10
+Facility 5 atende clientes: 9 11
+Facility 7 atende clientes: 2
+
+INSTÂNCIA 376 – ÓTIMO: Custo 8629231
+Facilities abertas: 1 2 6 7
+Facility 1 atende clientes: 6
+Facility 2 atende clientes: 7 10 13 14 15
+Facility 6 atende clientes: 1 2 5 8 9 12
+Facility 7 atende clientes: 3 4 11 16
+
+INSTÂNCIA 377 – ÓTIMO: Custo 4715179
+Facilities abertas: 1 2 5 6 7
+Facility 1 atende clientes: 9
+Facility 2 atende clientes: 1 2 6 7 10 11 12 16
+Facility 5 atende clientes: 3 5 14 15
+Facility 6 atende clientes: 4 8
+Facility 7 atende clientes: 13
+
+INSTÂNCIA 378 – ÓTIMO: Custo 4125479
+Facilities abertas: 1 3 5 6
+Facility 1 atende clientes: 2 8 10
+Facility 3 atende clientes: 1 3 4 5 11 14 15 16
+Facility 5 atende clientes: 6 7 9 13
+Facility 6 atende clientes: 12
+
+INSTÂNCIA 379 – ÓTIMO: Custo 3598374
+Facilities abertas: 2 3 4 5
+Facility 2 atende clientes: 2 6 10 14
+Facility 3 atende clientes: 5 12 15 16
+Facility 4 atende clientes: 1 3 4 8 11 13
+Facility 5 atende clientes: 7 9
+
+INSTÂNCIA 380 – ÓTIMO: Custo 4962133
+Facilities abertas: 1 2 3 5 7
+Facility 1 atende clientes: 1 4 6
+Facility 2 atende clientes: 3 5 8 11 13 14 15 16
+Facility 3 atende clientes: 10 12
+Facility 5 atende clientes: 2
+Facility 7 atende clientes: 7 9
+
+INSTÂNCIA 381 – ÓTIMO: Custo 2856642
+Facilities abertas: 1 2 5 7
+Facility 1 atende clientes: 4 9 11 13
+Facility 2 atende clientes: 2 6 7 8 12 14 15
+Facility 5 atende clientes: 1 3 10 16
+Facility 7 atende clientes: 5
+
+INSTÂNCIA 382 – ÓTIMO: Custo 8922393
+Facilities abertas: 1 2 3 5 7
+Facility 1 atende clientes: 10 11
+Facility 2 atende clientes: 12 13
+Facility 3 atende clientes: 2 5 6 7 8 14 15 16
+Facility 5 atende clientes: 1 3
+Facility 7 atende clientes: 4 9
+
+INSTÂNCIA 383 – ÓTIMO: Custo 8659983
+Facilities abertas: 1 5 6 7
+Facility 1 atende clientes: 3 7 8 9 12
+Facility 5 atende clientes: 6 16
+Facility 6 atende clientes: 1 4
+Facility 7 atende clientes: 2 5 10 11 13 14 15
+
+INSTÂNCIA 384 – ÓTIMO: Custo 5485929
+Facilities abertas: 2 3 4 6
+Facility 2 atende clientes: 3 7 9 12 13 14 16
+Facility 3 atende clientes: 1
+Facility 4 atende clientes: 2 4 5 6 8 10
+Facility 6 atende clientes: 11 15
+
+INSTÂNCIA 385 – ÓTIMO: Custo 8664026
+Facilities abertas: 2 4 6 7
+Facility 2 atende clientes: 3 5 13 14 15
+Facility 4 atende clientes: 1 4 7 11 16
+Facility 6 atende clientes: 2 6 9 12
+Facility 7 atende clientes: 8 10
+
+INSTÂNCIA 386 – ÓTIMO: Custo 3418250
+Facilities abertas: 1 3 5
+Facility 1 atende clientes: 1 4 7 8 13 14 15
+Facility 3 atende clientes: 5 6
+Facility 5 atende clientes: 2 3 9 10 11 12 16
+
+INSTÂNCIA 387 – ÓTIMO: Custo 4055712
+Facilities abertas: 1 2 3 4 6 7
+Facility 1 atende clientes: 12
+Facility 2 atende clientes: 13
+Facility 3 atende clientes: 1 2 3 5 10 15 16
+Facility 4 atende clientes: 4 7 8 9 11
+Facility 6 atende clientes: 6
+Facility 7 atende clientes: 14
+
+INSTÂNCIA 388 – ÓTIMO: Custo 6298900
+Facilities abertas: 4 5 6 7
+Facility 4 atende clientes: 4 5 6 9 13 14 15
+Facility 5 atende clientes: 3
+Facility 6 atende clientes: 1 2 7 12
+Facility 7 atende clientes: 8 10 11 16
+
+INSTÂNCIA 389 – ÓTIMO: Custo 10057626
+Facilities abertas: 2 4 5 7
+Facility 2 atende clientes: 5 8 10 14 16
+Facility 4 atende clientes: 2 7 12 15
+Facility 5 atende clientes: 6 9
+Facility 7 atende clientes: 1 3 4 11 13
+
+INSTÂNCIA 390 – ÓTIMO: Custo 5107353
+Facilities abertas: 1 3 4 5
+Facility 1 atende clientes: 15
+Facility 3 atende clientes: 1 5 6 7 8 10 16
+Facility 4 atende clientes: 2 4 9 11 12
+Facility 5 atende clientes: 3 13 14
+
+INSTÂNCIA 391 – ÓTIMO: Custo 9618012
+Facilities abertas: 1 2 3 4 5 6 7
+Facility 1 atende clientes: 5 11 15
+Facility 2 atende clientes: 2
+Facility 3 atende clientes: 9
+Facility 4 atende clientes: 1 4 7 8 10 13 14 16
+Facility 5 atende clientes: 6
+Facility 6 atende clientes: 12
+Facility 7 atende clientes: 3
+
+INSTÂNCIA 392 – ÓTIMO: Custo 8546175
+Facilities abertas: 2 3 4 5 6 7
+Facility 2 atende clientes: 5 10 11
+Facility 3 atende clientes: 7 12
+Facility 4 atende clientes: 13 15
+Facility 5 atende clientes: 6
+Facility 6 atende clientes: 9
+Facility 7 atende clientes: 1 2 3 4 8 14 16
+
+INSTÂNCIA 393 – ÓTIMO: Custo 2212859
+Facilities abertas: 2 3 5 7
+Facility 2 atende clientes: 8
+Facility 3 atende clientes: 1 5 13
+Facility 5 atende clientes: 6 7 9 12 16
+Facility 7 atende clientes: 2 3 4 10 11 14 15
+
+INSTÂNCIA 394 – ÓTIMO: Custo 4653898
+Facilities abertas: 1 4 5
+Facility 1 atende clientes: 1 2 6 7 9 11 12 14
+Facility 4 atende clientes: 3 5 8 10 16
+Facility 5 atende clientes: 4 13 15
+
+INSTÂNCIA 395 – ÓTIMO: Custo 5634428
+Facilities abertas: 1 2 4 5 7
+Facility 1 atende clientes: 3 5 10 11
+Facility 2 atende clientes: 16
+Facility 4 atende clientes: 4 7 8 12 13 14 15
+Facility 5 atende clientes: 1 2 9
+Facility 7 atende clientes: 6
+
+INSTÂNCIA 396 – ÓTIMO: Custo 7229761
+Facilities abertas: 1 3 5 6
+Facility 1 atende clientes: 6 11 16
+Facility 3 atende clientes: 1 10
+Facility 5 atende clientes: 2 3 5 7 8 12 13 15
+Facility 6 atende clientes: 4 9 14
+
+INSTÂNCIA 397 – ÓTIMO: Custo 3142601
+Facilities abertas: 2 3 4 6 7
+Facility 2 atende clientes: 16
+Facility 3 atende clientes: 1 5
+Facility 4 atende clientes: 2 6 7 10 11 12 13 15
+Facility 6 atende clientes: 3 4
+Facility 7 atende clientes: 8 9 14
+
+INSTÂNCIA 398 – ÓTIMO: Custo 6243868
+Facilities abertas: 1 2 5 6 7
+Facility 1 atende clientes: 8 14
+Facility 2 atende clientes: 6 15
+Facility 5 atende clientes: 9 16
+Facility 6 atende clientes: 12 13
+Facility 7 atende clientes: 1 2 3 4 5 7 10 11
+
+INSTÂNCIA 399 – ÓTIMO: Custo 6479384
+Facilities abertas: 4 6 7
+Facility 4 atende clientes: 2 4 5 7 9 15 16
+Facility 6 atende clientes: 3 6 10 11 12 13
+Facility 7 atende clientes: 1 8 14
+
+INSTÂNCIA 400 – ÓTIMO: Custo 11082492
+Facilities abertas: 1 2 3 4 7
+Facility 1 atende clientes: 13
+Facility 2 atende clientes: 2 6 11 12 14 16
+Facility 3 atende clientes: 15
+Facility 4 atende clientes: 1 3 7 9
+Facility 7 atende clientes: 4 5 8 10
+
